@@ -32,19 +32,19 @@ function textSearch(obj) {
         $("recommend").style.display = "block";
         return;
     }
-    $("title").innerHTML = "ËÑË÷½á¹û";
+    $("title").innerHTML = "æœç´¢ç»“æœ";
     $("middle").style.overflowY = "auto";
     $("recommend").style.display = "none";
     $("searchResult").style.display = "block";
     var result = searchTree(obj.value, TREE_ITEMS);
     var htmlStr = "";
     if (result.length == 0) {
-        htmlStr = '<div class="nothing">Ã»ÓĞÕÒµ½Ïà¹ØÓ°Æ¬£¬ÇëËÑË÷ÆäËü¹Ø¼ü×Ö¡£</div>';
+        htmlStr = '<div class="nothing">æ²¡æœ‰æ‰¾åˆ°ç›¸å…³å½±ç‰‡ï¼Œè¯·æœç´¢å…¶å®ƒå…³é”®å­—ã€‚</div>';
     } else {
         var color = false;
         for (var i = 0; i < result.length; i++) {
             var current = result[i];
-            htmlStr += '<ul class="result ' + ((color = !color) ? 'odd' : 'even') + '"><li class="name">' + current[0] + '</li><li class="option"><a href="../' + current[1] + '" title="µã»÷²¥·Å">½øÈë</a></li></ul>';
+            htmlStr += '<ul class="result ' + ((color = !color) ? 'odd' : 'even') + '"><li class="name">' + current[0] + '</li><li class="option"><a href="../' + current[1] + '" title="ç‚¹å‡»æ’­æ”¾">è¿›å…¥</a></li></ul>';
         }
     }
     $("searchResult").innerHTML = htmlStr;
@@ -57,7 +57,6 @@ function searchTree(key, target) {
     }
     return result;
 }
-
 function searchItem(key, target, result) {
     for (var i = 2; i < target.length; i++) {
         var current = target[i];
