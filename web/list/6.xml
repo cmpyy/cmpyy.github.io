@@ -1,0 +1,66 @@
+<list>
+
+<m src="http://cnc.tv189.cn/2011/04/07/12/1241ebc0ac49a68c6cb14ce9cad27f450p-0000.flv?start={start_bytes}" stream="true" label="01 - 尖峰时刻1" />
+<m src="http://175.22.2.22/cnc.tv189.cn/2011/04/07/26/58976f23754e27b0173cbcf7f4f29d450p-0000.flv?start={start_bytes}" stream="true" label="02 - 尖峰时刻2" />
+<m src="{proxy}baidu/276976/2167687337/.flv" label="02 - 尖峰时刻3" />
+<m type="youku" src="XMTUzMjI5MTM2" label="04 - 邻家特工" />
+<m src="http://113.5.254.170/14/29/1/2141535875.0.flv?start={start_bytes}" stream="true" label="05 - 辛亥革命" />
+<m type="youku" src="XMTkxOTk0NDQ0" label="06 - 功夫梦" />
+<m src="http://g3.letv.cn/12\/27\/93\/2121404986.0.flv?start={start_bytes}" stream="true" label="07- 大兵小将" />
+<m  label="08- 功夫之王" type="sohu"  src="27060" />
+<m  label="09- 宝贝计划" type="sohu"  src="621884" />
+<m src="http://flv1.vodfile.m1905.com/movie/XU15lRgOQrLvum77.flv?start={start_bytes}" stream="true" label="10 - 神话" />
+<m type="youku" src="XMjQ5NjgwODI0" label="11 - 新少林寺" />
+<m type="youku" src="XMTk3NDQ0NTU2" label="12 - 警察故事1" />
+<m type="tudou" src="http://v2.tudou.com/v2/cdn?id=130554441" brt="2" label="13 - 警察故事2" />
+<m src="12\/43\/90\/letv-uts\/1334219786-AVC-313150-AAC-58248-5745240-279003750-6d871f4e862be3ed9db0ecebc6cc2220-1334219786.flv?start={start_bytes}" stream="true" label="14 - 警察故事3" />
+<m type="youku" src="XMjY4NzQ1MDEy" label="15 - 警察故事4简单任务" />
+<m src="http://flv1.vodfile.m1905.com/movie/um5VWnBXx3KQSrMn.flv?start={start_bytes}" stream="true" label="16 - 新警察故事" />
+<m type="youku" src="XMzMyNjU3NjQ0" label="17 - 重案组" />
+<m type="youku" src="XMzIyNTQ2MDQ0" label="18 - 飞龙再生" />
+<m src="http://g3.letv.cn/7/46/26/2071219161.0.flv?start={start_bytes}" stream="true" label="19 - 飞鹰计划" />
+<m src="http://flv1.vodfile.m1905.com/movie/1112/1112BC4E5CCDEDB6C1DD.flv?start={start_bytes}" stream="true" label="20 - 龙兄虎弟" />
+<m type="youku" src="XMjA2NTA1OTUy" label="21 - 飞龙猛将" />
+<m type="youku" src="XMjYzNzI1MjQ4" label="22 - 燕尾服" />
+<m type="youku" src="XMTg5NDAyNjAw" label="23 - 玻璃樽" />
+<m type="youku" src="XMTg5NDIyMzI0" label="24 - 特务迷城" />
+<m type="youku" src="XMjA2NzMxOTI0" label="25 - 威龙猛探" />
+<m type="tudou" src="http://v2.tudou.com/v2/cdn?id=64983681" brt="2" label="26 - 我是谁" />
+<m type="youku" src="XMjQ5ODI4NTQw" label="27 - 一个好人" />
+<m type="youku" src="XMTk0NzM5MzIw" label="28 - 霹雳火" />
+<m type="tudou" src="http://v2.tudou.com/v2/cdn?id=67732798" brt="2" label="29 - 红番区"/>
+<m type="youku" src="XMjUzNTA1NDQ0" label="30 - 醉拳" />
+<m type="tudou" src="http://v2.tudou.com/v2/cdn?id=70968889" brt="2" label="31 - 醉拳2"/>
+<m type="youku" src="XMTA5MDQ0MTI" label="32 - 双龙会" />
+<m type="youku" src="XMzIwMTAwODg4" label="33 - 火烧岛" />
+<m src="http://vurl.ppstv.com/ugc/b/85/b1eef352b627f36b294f1c60046477058ce6feac/b1eef352b627f36b294f1c60046477058ce6feac.pfv?start={start_bytes}" stream="true" label="34 - 奇迹" />
+<m type="youku" src="XMzMyNTkxNzEy" label="35 - A计划" />
+<m type="youku" src="XMjI3MjM2Mjg" label="36 - A计划续集" />
+<m type="youku" src="XMzMyNjcxNTQ0" label="37 - 龙的心" />
+<m type="youku" src="XMzMxMTMyMTg4" label="38 - 快餐车" />
+<m type="youku" src="XMzA4MjU4NzMy" label="39 - 炮弹飞车" />
+<m type="youku" src="XNTY5MTQ2MzI" label="40 - 杀手壕" />
+<m type="youku" src="XMzIyMzM3MzM2" label="41 - 龙少爷" />
+<m type="youku" src="XMzMyOTcwMzEy" label="42 - 迷你特攻队" />
+<m type="youku" src="XMzIyMDA5NDYw" label="43 - 师弟出马" />
+<m type="youku" src="XMzE0OTQ2OTE2" label="44 - 新精武门" />
+<m type="youku" src="XMzI1NTUzNDcy" label="45 - 香港过客" />
+<m type="youku" src="XMzIxMzM5NDYw" label="46 - 少林门" />
+<m type="youku" src="XMjkzMDA0NTEy" label="47 - 笑拳怪招" />
+<m type="youku" src="XMTYyMzQ0ODI0" label="48 - 顶天立地-北派功夫" />
+<m src="http://221.204.206.55/8/2/61/2081186837.0.flv?start={start_bytes}" stream="true" label="49 - 龙腾虎跃" />
+<m type="youku" src="XMjE5MjUxMDE2" label="50 - 一招半式闯江湖" />
+<m type="youku" src="XNzMxNDg3NzI" label="51 - 蛇鹤八步" />
+<m type="youku" src="XMjk2MDc4Mjg" label="52 - 龙拳-拳神" />
+<m type="youku" src="XMzE2Mzc3MTQw" label="53 - 拳精" />
+<m type="youku" src="XMTI0MzQ2ODY0" label="54 - 风雨双流星" />
+<m type="youku" src="XMTQzMjU1MzY4" label="55 - 蛇形刁手" />
+<m type="youku" src="XMTU5NjMwNTI0" label="56 - 夏日福星" />
+<m type="youku" src="XMTk3MjkwNzI" label="57 - 福星高照" />
+<m type="youku" src="XMTA1NjUzMzcy" label="58 - 奇谋妙计五福星" />
+<m src="http://f4.r.56.com/f4.c57.56.com/flvdownload/2/9/zhajm_12667440760hd.flv?start={start_bytes}" stream="true" label="59 - 炮弹飞车2" />
+<m src="http://f3.r.56.com/f3.c53.56.com/flvdownload/27/14/zhajm_127361719816hd.flv?start={start_bytes}" stream="true" label="60 - 环游地球80天" />
+<m src="http://f5.r.56.com/f5.c48.56.com/flvdownload/15/10/zhajm_126683714047hd.flv?start={start_bytes}" stream="true" label="61 - 上海正午又名西域威龙" />
+<m src="http://f2.r.56.com/f2.c58.56.com/flvdownload/19/18/sc_mp4_128167947661hd.flv?start={start_bytes}" stream="true" label="62 - 上海武士又名皇家威龙" />
+<m src="http://f3.r.56.com/f3.c50.56.com/flvdownload/21/13/zhajm_126503332195hd.flv?start={start_bytes}" stream="true" label="63 - 少林木人巷" />
+</list>

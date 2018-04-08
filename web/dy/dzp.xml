@@ -1,0 +1,620 @@
+<list>
+<m opened="1" label="《动作电影合集》后台持续更新">
+<m type="" src="http://113.5.254.144/13/5/86/2131384905.0.flv?start={start_bytes}" stream="true" label="驯龙战 高清完整版" />
+<m type="youku" src="XOTU4MzU1MzY=" label="江湖接班人" />
+<m type="tudou" src="http://v2.tudou.com/v2/cdn?id=52383623" brt="2" label="的士速递1" />
+<m type="tudou" src="http://v2.tudou.com/v2/cdn?id=35727814" brt="2" label=" 的士速递2" />
+<m type="2" src="http://dp.ugc.pps.tv/get_play_url.php?sid=31LXPU" label="的士速递3" />
+<m src="{proxy}letv/v642256" label="的士速递4" />
+
+<m type="" src="http://221.7.252.144/26/31/99/letv-uts/1177292-AVC-537825-AAC-31586-7793904-573509515-2fa53c15f7b686b67ee759240cc9cb05-1354898324884.flv?start={start_bytes}" stream="true" label="星际之门" />
+<m type="qiyi" src="http://cache.video.qiyi.com/v/15025650fe8511dfaa6aa4badb2c35a1" label="神偷次世代" />
+<m type="sohu"  streamtype="flv" src="899500" label="勇闯16街区"/>
+
+<m type="" src="http://g3.letv.com/10/36/87/letv-uts/1335421194-AVC-311879-AAC-58189-6413368-310305226-115346c6cdfa56694699cffc121f0c87-1335421194.flv?start={start_bytes}" stream="true" label="霹雳娇娃２" />
+<m type="" src="http://124.95.154.12/23/53/46/letv-uts/2314578-AVC-254481-AAC-31586-5376840-200660011-320b29f8a98dbda2ed1b3d4cb38296db-1364463800576.flv" label="新特警判官 高清完整版" />
+<m src="{proxy}baidu/312449/1211062395/.flv" label="城市战士BD" />
+<m src="{proxy}baidu/431358/1965088241/.flv" label="雇佣兵" />
+<m type="" src="http://118.186.72.17/17/24/75/letv-uts/489967-AVC-254528-AAC-31586-5550253-207162175-c017904c688d3ebdeae0ee482a7f299c-1346671992222.flv?start={start_bytes}" stream="true" label="绝色武器" />
+<m type="youku" src="XMzQzNzI0MDky" label="黑暗终结者 " />
+<m type="" src="http://118.186.72.24/17/14/101/13409788491789614.0.flv?start={start_bytes}" stream="true" label="雷神 高清完整版" />
+<m type="" src="http://58.252.187.5/2/vurl.pps.tv/ugc/1/33/1bd4b8412ec07b0277145515868da052f2912b1e/1bd4b8412ec07b0277145515868da052f2912b1e.pfv?start={start_bytes}" stream="true" label="致命女煞星" />
+<m type="youku" src="XMzQ3OTc2NDg0" label="印度电影【幻影车神1】中文字幕版" />
+<m type="youku" src="XMzQwMjk4OTI4" label="印度电影【幻影车神2】中文字幕版" /><m type="" src="http://yy1635.com/bd.php//id/347750/uk/2402623632.flv?start={start_bytes}" label="摩登如来神掌" />
+<m  type="youku" streamtype="flv" src="XNDYxMjI1MzYw" label="代号猛虎行动"/>
+<m type="" src="http://g3.letv.com/10/43/104/2101628219.0.flv?start={start_bytes}" label="3D极速先锋" />
+<m type="" src="http://112.90.24.21/ugc/7/ed/78054a89b838a50421657785daac1a1870ab20c4/78054a89b838a50421657785daac1a1870ab20c4.pfv?start={start_bytes}" label="幽灵战队" />
+<m type="" src="http://cnc.tv189.cn/2011/04/25/41/9bde465ad44e8eb647bf5d99046bf5720p-0000.flv?start={start_bytes}" label="古墓丽影2" />
+<m type="" src="http://proxy.player.yy6080.org/baidu/225380/2083212899/.flv" label="飓风营救2" />
+<m type="" src="http://vurl.pps.tv/ugc/a/01/a6d86eb127489d4be5594d49c29b7844dc318568/a6d86eb127489d4be5594d49c29b7844dc318568.pfv?start={start_bytes}" label="特警判官" />
+<m type="" src="http://vurl.ppstv.com/ugc/4/e3/4ae35b4668ee969d0c56122e29cdc9d49785daa7/4ae35b4668ee969d0c56122e29cdc9d49785daa7.pfv?start={start_bytes}" label="赌圣3:无名小子" />
+<m src="http://42.121.118.7/bd8.php/id/262206/uk/1026869477.flv" label="虎胆龙威4（上集）" />
+<m src="http://42.121.118.7/bd8.php/id/262207/uk/1026869477.flv" label="虎胆龙威4（下集）" />
+<m src="http://42.121.118.7/bd8.php/id/366043/uk/1026869477.flv" label="虎胆龙威5（抢先版）" />
+<m type="" src="http://yye8.com/x/bd5.php//id/314297/uk/993306647.flv?start={start_bytes}" label="云图" />
+<m type="" src="http://vurl.ppstv.com/ugc/4/9d/42fc2d22c4ac6ab723479e45e8f2582c05735ebb/42fc2d22c4ac6ab723479e45e8f2582c05735ebb.pfv" label="爆裂末路" />
+<m
+src="http://vurl.pps.tv/ugc/4/e8/467c0dca7dc04471d48f5f43ce5ed9cb0c795607/467c0dca7dc04471d48f5f43ce5ed9cb0c795607.pfv?start={start_bytes}" lrc="" stream="true" label="杀手追缉战" />
+<m
+src="http://112.90.24.21/ugc/8/60/850ebcaef38794abcbd651f4fdefe479269ad69f/850ebcaef38794abcbd651f4fdefe479269ad69f.pfv?start={start_bytes}" lrc="" stream="true" label="极速漂移" />
+<m
+src="http://vurl.pps.tv/ugc/a/cd/a8c59a0305f4d600107b5dbfd23f377d29df97dc/a8c59a0305f4d600107b5dbfd23f377d29df97dc.pfv?start={start_bytes}" lrc="" stream="true" label="极速复仇" />
+<m
+src="http://vurl.pps.tv/ugc/d/3e/d77d210c3a43cc83b770f548fc3ebdbd2b39464c/d77d210c3a43cc83b770f548fc3ebdbd2b39464c.pfv?start={start_bytes}" lrc="" stream="true" label="新特警判官/超时空战警3D" />
+<m
+src="http://vurl.pps.tv/ugc/b/50/bb27247c53d0dcaa92438ca39d30c63a84e98eeb/bb27247c53d0dcaa92438ca39d30c63a84e98eeb.pfv?start={start_bytes}" lrc="" stream="true" label="角斗士" />
+<m
+src="http://112.90.24.21/ugc/2/ad/2674eb5f5f86edcacc4c4308e378576a048c44ec/2674eb5f5f86edcacc4c4308e378576a048c44ec.pfv?start={start_bytes}" lrc="" stream="true" label="夺狱困兽(囚室211)" />
+<m src="http://yye8.com/x/bd5.php//id/192591/uk/3036868142.flv?start={start_bytes}" stream="true" label="黑狱风云2  ( 上 ) 动作 监狱 推荐" />
+<m src="http://yye8.com/x/bd5.php//id/192592/uk/3036868142.flv?start={start_bytes}" stream="true" label="黑狱风云2  ( 下 ) 动作 监狱 推荐" />
+<m src="http://yye8.com/x/bd5.php//id/226235/uk/3827652306.flv?start={start_bytes}" lrc="" stream="true" label="Z-108弃城《动作片》" />
+<m src="http://60.169.76.14/23/5/30/letv-uts/1723488-AVC-253929-AAC-31586-6424720-239317393-63f370910230d63c603f02078273f825-1359363948006.flv?start={start_bytes}" stream="true" label="血滴子《 黄晓明 阮经天 动作片 》" />
+<m src="http://g3.letv.cn/22/47/102/letv-uts/1583114-AVC-254716-AAC-31586-7938193-296453077-ed3697a01d88c382e888285b5b9ce473-1356788296566.flv?start={start_bytes}" stream="true" label="鸿门宴 高清完整版" />
+<m type="" src="http://vurl.ppstv.com/ugc/c/b9/c12a80c3591ef4c76c4c0716eb4d43f92e5d7a35/c12a80c3591ef4c76c4c0716eb4d43f92e5d7a35.pfv" label="幻影车神" />
+<m type="2" src="http://42.121.118.7/bd8.php/id/209085/uk/3761528295.flv?start={start_bytes}" label="扎职/新古惑仔《 冒险 罪案 动作 》"color="#ff0000, #00ff00" />
+<m type="2" src="http://42.121.118.7/bd8.php/id/228774/uk/3459549887.flv?start={start_bytes}" label="新野蛮人《 罪案 惊悚 剧情 》"color="#ff0000, #00ff00" />
+<m type="sohu" src="658659" label="海军陆战队员"color="#ff0000, #00ff00" />
+<m type="" src="http://vurl.pps.tv/ugc/e/de/ee6f237059cc5232da96ee444a820a120f1cc66b/ee6f237059cc5232da96ee444a820a120f1cc66b.pfv" label="街区大作战" />
+<m type="" src="http://vurl.ppstv.com/ugc/2/cf/2aa3455a41c744dba1c76a287855a697ae83baaa/2aa3455a41c744dba1c76a287855a697ae83baaa.pfv" label="被窃之物" />
+<m type="" src="http://vurl.pps.tv/ugc/9/0a/902bf92506a926d529cccddaaf6b151675d4a4bf/902bf92506a926d529cccddaaf6b151675d4a4bf.pfv" label="第九突击队" />
+<m type="2" src="http://220.178.229.11/23/13/106/letv-uts/1670850-AVC-537991-AAC-31586-6560600-482910661-fbca32cd76a0bcd443dbc8850e01cec6-1358504195643.flv?start={start_bytes}" label="王的盛宴《 高清 历史 /剧情 /  》"color="#ff0000, #00ff00" />
+<m type="2" src="http://42.121.118.7/bd8.php/id/215132/uk/3761528295.flv?start={start_bytes}" label="上海正午2:上海骑士《 成龙 动作 喜剧 》"color="#ff0000, #00ff00" />
+<m type="2" src="http://42.121.118.7/bd8.php/id/210777/uk/3761528295.flv?start={start_bytes}" label="极速复仇《 动作片 冒险 罪案 》"color="#ff0000, #00ff00" />
+<m type="2" src="http://42.121.118.7/bd8.php/id/190493/uk/3036868142.flv?start={start_bytes}" label="尖峰时刻3《 成龙 / 犯罪 / 惊悚 》"color="#ff0000, #00ff00" />
+<m type="sohu" src="592259" label="监狱生活《 高清 犯罪 》" />
+<m type="sohu" src="304350" label="古惑仔/飞砂风中转" />
+<m type="2" src="http://42.121.118.7/bd8.php/id/193549/uk/1228170740.flv?start={start_bytes}" label="虎胆龙威4 《 高清 动作 惊悚  》"color="#ff0000, #00ff00" />
+<m type="2" src="http://220.178.229.2/23/13/16/letv-uts/1666727-AVC-537973-AAC-31586-6146727-452416894-5b0a4b03321b9826c4fba8bcc0ec177b-1358420655514.flv?start={start_bytes}" label="太极2：英雄崛起  高清"color="#ff0000, #00ff00" />
+<m type="2" src="http://220.178.229.3/20/4/111/letv-uts/804085-AVC-537745-AAC-31586-5640996-415024560-6970b20e07eb5c08d26f9445cad35025-1352369665537.flv?start={start_bytes}" label="太极1：从零开始  高清"color="#ff0000, #00ff00" />
+<m src="http://42.121.118.7/bd8.php/id/192591/uk/3036868142.flv?start={start_bytes}" stream="true" label="黑狱风云2 (A)《 动作 监狱 推荐》" />
+<m src="http://42.121.118.7/bd8.php/id/192592/uk/3036868142.flv?start={start_bytes}" stream="true" label="黑狱风云2 (B)《 动作 监狱 推荐》" />
+<m type="2" src="http://220.178.229.15/17/40/73/letv-uts/675624-AVC-537761-AAC-31586-7976552-586882489-bee969b35e99789638f5604d9c747f7f-1350049900861.flv?start={start_bytes}" duration="7920" bytes="476870709" label="碟中谍4" />
+<m type="2" src="http://42.121.118.7/bd8.php/id/243712/uk/422850527.flv?start={start_bytes}" label="十二生肖《 高清版 成龙导演作品 》"color="#ff0000, #00ff00" />
+<m type="sohu" streamtype="flv" src="55063" label="邻家特工"color="#ff0000, #00ff00" />
+<m type="2" src="http://g3.letv.cn/29/53/21/letv-uts/1639354-AVC-254706-AAC-31586-6441759-240552987-2dbfa035c1c0afb3ecdc40df88fe52a2-1357909203243.flv?start={start_bytes}" label="铜雀台《 周润发 刘亦菲 伊能静 》"color="#ff0000, #00ff00"/>
+<m type="2" src="http://220.178.229.6/24/39/57/letv-uts/1634392-AVC-537908-AAC-31586-5866230-431720770-2402b3627682a5a8a5cb2712037c8645-1357812534999.flv?start={start_bytes}" label="寒战《 郭富城 梁家辉 刘德华 》"/>
+<m type="2" src="http://g3.letv.cn/24/14/7/letv-uts/1134604-AVC-254779-AAC-31586-6357560-237498577-2f86559b9f3f323e793c96bb58050fdb-1354815876315.flv?" label="八卦宗师" />
+<m type="2" src="http://42.121.118.7/bd8.php/id/252689/uk/422850527.flv?start={start_bytes}" label="一代宗师《 DVD版 王家卫 梁朝伟 》"color="#ff0000, #00ff00" />
+<m type="2" src="http://42.121.118.7/bd8.php/id/163076/uk/4161689480.flv?start={start_bytes}" label="木乃伊3龙帝之墓《 主演：李连杰 》"color="#ff0000, #00ff00" />
+<m type="2" src="http://vslb.tv189.cn/2012/07/03/ae/7ecd33d6754418b18f6ae235e024e7720p-0000.flv?start={start_bytes}" label="极地绝杀《 全球头号恐怖份子 》"color="#ff0000, #00ff00" />
+
+<m type="2" src="http://42.121.118.7/bd8.php/id/237568/uk/3593780470.flv?start={start_bytes}" label="永不投降/绝不投降《 清晰 动作 暧昧 》"color="#ff0000, #00ff00" />
+<m type="2" src="http://42.121.118.7/bd8.php/id/226235/uk/3827652306.flv?start={start_bytes}" label="Z-108弃城  高清版"color="#ff0000, #00ff00" />
+
+
+<m type="2" src="http://42.121.118.7/bd8.php/id/209536/uk/3608400208.flv?start={start_bytes}" label="血滴子《 高清 动作 黄晓明 》" />
+
+
+<m type="2" src="http://42.121.118.7/bd8.php/id/245122/uk/3425422893.flv?start={start_bytes}" label="突袭/全面突袭《 动作 罪案 惊悚 》"color="#ff0000, #00ff00" />
+<m type="2" src="http://42.121.118.7/bd8.php/id/244243/uk/3425422893.flv?start={start_bytes}" label="暂告安全《 动作 罪案 惊悚 》"color="#ff0000, #00ff00" />
+<m type="2" src="http://vslb.tv189.cn/2012/03/14/cf/5116e4f7234cff964c56be503fc82e720p-0000.flv?start={start_bytes}" label="女狙击手《 剧情 犯罪 动作 》"color="#ff0000, #00ff00" />
+<m type="2" src="http://42.121.118.7/bd8.php/id/226235/uk/3827652306.flv?start={start_bytes}" label="Z-108弃城《 高清 动作 姚采颖 》"color="#ff0000, #00ff00" />
+<m type="2" src="http://42.121.118.7/bd8.php/id/219854/uk/3608400208.flv?start={start_bytes}" label="灵魂战车2/复仇之魂《 HD国语 科幻 动作 》"color="#ff0000, #00ff00" />
+<m src="http://42.121.118.7/bd8.php/id/172449/uk/1679563633.flv?start={start_bytes}" stream="true" label="天龙特攻队《 动作 罪案 冒险 》"color="#ff0000, #00ff00" />
+
+
+<m  type="youku" streamtype="flv" src="XNDA1NzI1Nzc2" label="终极武器"/>
+
+
+
+<m src="http://42.121.118.7/bd8.php/id/238832/uk/3425422893.flv?start={start_bytes}" stream="true" label="被窃之物《 冒险 动作 尼古拉斯·凯奇 》"color="#ff0000, #00ff00" />
+
+<m src="http://42.121.118.7/bd8.php/id/172449/uk/1679563633.flv?start={start_bytes}" stream="true" label="天龙特攻队《 动作 罪案 冒险 》"color="#ff0000, #00ff00" />
+<m src="http://42.121.118.7/bd8.php/id/176458/uk/3542813209.flv?start={start_bytes}" stream="true" label="极速酷客/极速飞车《 欧美 刺激 动作片 》"color="#ff0000, #00ff00" />
+<m type="2" src="http://42.121.118.7/bd8.php/id/176424/uk/3542813209.flv?start={start_bytes}" label="犯罪分子2013" />
+<m type="2" src="http://42.121.118.7/bd8.php/id/220775/uk/153867887.flv?start={start_bytes}" label="一九四二《 高清 范伟 张国立 陈道明 》" />
+<m type="2" src="http://42.121.118.7/bd8.php/id/168427/uk/1679563633.flv?start={start_bytes}" label="007大破天幕杀机《 高清 美国 大片 》"color="#ff0000, #00ff00" />
+
+
+
+
+<m type="2" src="http://42.121.118.7/bd8.php/id/215285/uk/3089274440.flv?start={start_bytes}" label="铁拳无敌（2012）"color="#ff0000, #00ff00" />
+<m type="2" src="http://42.121.118.7/bd8.php/id/215273/uk/3089274440.flv?start={start_bytes}" label="血滴子《 黄晓明 阮经天 动作片 》"color="#ff0000, #00ff00" />
+
+
+
+
+
+
+<m type="youku" streamtype="flv" src="XMzIwNzYxNzIw" label="山东狂人"/>
+
+
+
+
+<m type="youku" streamtype="flv" src="XMjQyNDE0MDg4" label="流氓赖上我的床（超级搞笑）"/>
+<m type="2" src="http://vslb.tv189.cn/2012/12/14/be/731ff2daf84b21bcccdee1b297b3cc450p-0000.flv?start={start_bytes}" label="寒战高清版"/>
+<m type="youku" streamtype="flv" src="XMzE5OTMxNjY0" label="赤脚小子《经典》"color="#ff0000, #00ff00"/> 
+<m type="youku" streamtype="flv"  src="XMzEzMzU3MzA0" label="雇佣兵"  />
+<m type="2" src="http://g3.letv.cn/20/32/35/letv-uts/628457-AVC-254783-AAC-31586-6462843-241425319-4352c6b8e8044c9b5d8dc4b220ab5b2b-1348930136767.flv?start={start_bytes}"  label="消失的子弹" />
+<m type="2" src="http://imdong.duapp.com/pan_baidu/194511/2318127471.flv?start={start_bytes}" label="新特警判官《高清 动作片 冒险 魔幻》 " />
+<m src="http://60.169.76.21/20/42/86/letv-uts/110430d123a6c7bb29b3653162d8bab4_1000.flv?start={start_bytes}" stream="true" label="敢死队2《高清》" />
+<m src="http://60.169.76.17/25/24/94/letv-uts/1077628-AVC-537306-AAC-63117-6134654-477769623-7a0094a240fa2ecbab918ebf04247f4e-1354733396461.flv?start={start_bytes}" stream="true" label="敢死队1《火爆》" />
+<m type="qiyi" src="http://cache.video.qiyi.com/v/70f3ccb7d0a54d5d9482dd175962c14f" label="痞子英雄全面开战" />
+<m type="2" src="http://vsrc.store.qq.com/h1028szk4b8.flv" label="一九四二"color="#ff0000, #00ff00" />
+
+<m type="qiyi" src="http://cache.video.qiyi.com/v/e46184b15a6545a1ac4886a3097e0770/53560/2/" label="白昼冷光" />
+<m type="qiyi" src="http://cache.video.qiyi.com/v/3f0ca1272ece42b09a6038fa2594eb7f/57/2/" label="百变飞车" />
+<m src="http://g3.letv.com/26/35/107/letv-uts/1048200-AVC-254702-AAC-31586-6359375-237463194-8cebdb8716b9ce2d3c88ebd7839a9001-1354630475017.flv?start={start_bytes}" stream="true" label="在劫难逃 高清完整版" />
+<m src="http://g3.letv.com/17/50/110/letv-uts/497130-AVC-254700-AAC-31586-4937664-184399417-d547b8ea3f98b04010b149d4f308863b-1346760039041.flv?start={start_bytes}" stream="true" label="热血街头 高清完整版" />
+<m src="http://g3.letv.com/19/8/18/13452722901597594.0.flv?start={start_bytes}" stream="true" label="遍地狼烟 高清完整版" />
+<m src="http://g3.letv.com/13/40/55/2131495075.0.flv?start={start_bytes}" stream="true" label="孤胆特工 高清完整版" />
+<m src="http://g3.letv.com/13/22/95/2131451019.0.flv?start={start_bytes}" stream="true" label="无极限之危情速递 高清完整版" />
+<m type="qiyi" src="http://cache.video.qiyi.com/v/14f7c8f2fe8511dfaa6aa4badb2c35a1/55/2/" label="幻影特攻" />
+<m type="qiyi" src="http://cache.video.qiyi.com/v/14f0c976fe8511dfaa6aa4badb2c35a1/55/2/" label="神枪手" />
+<m type="qiyi" src="http://cache.video.qiyi.com/v/15a0cb78fe8511dfaa6aa4badb2c35a1/58/2/" label="杀手公司" />
+<m type="qiyi" src="http://cache.video.qiyi.com/v/b642331350d74bf28eef1e02cd33dfb5/55/2/" label="暗战" />
+<m type="qiyi" src="http://cache.video.qiyi.com/v/15a0c060fe8511dfaa6aa4badb2c35a1/58/2/" label="卑劣的街头" />
+<m src="http://g3.letv.com/20/9/81/letv-uts/274585-AVC-254226-AAC-31586-6705259-249973354-742ec55581dee4f601abf635360e4255-1346685605149.flv?start={start_bytes}" stream="true" label="极速天使 高清完整版" />
+<m type="2" src="http://g3.letv.cn/20/49/71/letv-uts/767850-AVC-537910-AAC-63097-5342149-416428876-4d599233dc16e5d6bb810adbc6379f58-1351792902826.flv?start={start_bytes}"  label="拳皇 高清" />
+<m src="http://g3.letv.com/6/26/30/206897803.0.flv?start={start_bytes}" stream="true" label="全城戒备 高清完整版" />
+<m src="http://221.235.189.220:80//data4/cdn_transfer/64/C8/64fe5dfd279d7a0effa11186988eabddf747afc8_1.flv?start={start_bytes}" lstream="true" label="雄雌大盗 日本变态雄雌双煞" />
+<m src="http://61.139.103.6:80//data3/cdn_transfer/D9/57/d987d9a97523514c951a708740c26177d9579b57_1.flv?start={start_bytes}" stream="true" label="叛谍追击 高清" />
+<m src="http://122.228.255.184:80//data1/cdn_transfer/CF/7B/cf4d9bcb497f4247c6bc9e09779b238abc8ae47b_1.flv?start={start_bytes}" stream="true" label="黑山匪帮" />
+<m src="http://180.153.91.25:80//data6/cdn_transfer/5D/BA/5d054887815f8c7767401ee2088abe0e59c775ba_1.flv?start={start_bytes}" stream="true" label="神探人兽机关枪" />
+<m src="http://61.139.103.44:80//data3/cdn_transfer/65/A0/65e8744f601ad54af0ce73b23d75bf4d95664fa0_1.flv?start={start_bytes}" stream="true" label="神探亨特张" />
+<m type="2" src="http://vurl.pps.tv/ugc/f/dc/f5078d1db60669640f61e2e36724e97f7ed933d2/f5078d1db60669640f61e2e36724e97f7ed933d2.pfv?start={start_bytes}" stream="true" label="双截棍/双节棍" />
+<m src="http://vurl.pps.tv/ugc/7/a2/733cbb6f755d660cf13016aeec48993b242f9196/733cbb6f755d660cf13016aeec48993b242f9196.pfv?start={start_bytes}" stream="true" label="纵横四海" />
+<m src="http://vurl.pps.tv/ugc/f/97/f167b00e36b298cb439d29db49d5ec2bf65c8a8c/f167b00e36b298cb439d29db49d5ec2bf65c8a8c.pfv?start={start_bytes}" stream="true" label="特警屠龙" />
+<m src="http://vurl.pps.tv/ugc/5/ea/5205e4f64068c806ab9f5afe75396377a5516efd/5205e4f64068c806ab9f5afe75396377a5516efd.pfv?start={start_bytes}" stream="true" label="街女" />
+<m src="http://vurl.pps.tv/ugc/1/1d/1e8b8968d9fe479e7bf19fc82d2fd20a40d975a0/1e8b8968d9fe479e7bf19fc82d2fd20a40d975a0.pfv?start={start_bytes}" stream="true" label="老虎出更" />
+<m src="http://vurl.pps.tv/ugc/5/dc/58e44c3bc3acbccb3a4d4ae2e450997f84e0fd67/58e44c3bc3acbccb3a4d4ae2e450997f84e0fd67.pfv?start={start_bytes}" stream="true" label="无间风云" />
+<m type="2" src="http://vslb.tv189.cn/2012/10/25/92/ab27f5882045c0b5d409b4f822303d450p-0000.flv?start={start_bytes}" duration="6360" bytes="379904862" label="危险关系 高清" />
+<m type="2" src="http://vslb.tv189.cn/2012/08/03/2a/7c7552df754c6aa8d9b329d3c1bf50450p-0000.flv?start={start_bytes}" duration="7680" bytes="453567418" label="大侦探福尔摩斯 高清" />
+<m type="qiyi" src="http://cache.video.qiyi.com/v/aae1bfe59616482bb661feccd6dc5b4e" label="无间谍局" />
+<m type="2" src="http://vslb.tv189.cn/2012/07/19/08/886b5420b74515aaa6da48129bc15c450p-0000.flv?start={start_bytes}" duration="7920" bytes="476870709" label="碟中谍4" />
+<m type="youku" streamtype="flv" src="XMzg5MzQ1NTYw" label="武士之鞘"/>
+<m src="http://g3.letv.com/19/34/13/letv-uts/1342613005-AVC-254707-AAC-31921-5417836-204318931-c3344affc170cc8e29ae9973ee72537f-1342613005.flv?start={start_bytes}" stream="true" label="复仇者之死" />
+<m src="http://g3.letv.cn/19/17/71/letv-uts/572102-AVC-254748-AAC-31586-5274214-197005608-07d8454423b14348829c07cd537b5008-1348048183762.flv?start={start_bytes}" stream="true" label="非常绑匪"/>
+<m  type="youku" streamtype="flv" src="XNDA1NzI1Nzc2" label="终极武器"/>
+<m src="http://g3.letv.cn/20/44/94/letv-uts/304112-AVC-254741-AAC-31586-7026020-262435934-3462d501a969ea6e9e5e7bd6d3493e6c-1345837853110.flv?start={start_bytes}" stream="true" label="盗亦有道"/>
+<m type="qiyi" src="http://cache.video.qiyi.com/v/b3cdbc91350f4e0ea2c002ed5dde1243" label="纽约行动" />
+<m src="http://vslb.tv189.cn/2012/06/08/9d/c76e3252334b779fd9e95e933ecfac450p-0000.flv?start={start_bytes}" stream="true" label="逆战"/>
+<m src="http://vslb.tv189.cn/2012/04/24/b0/56c1925a5c4dfcbb00a1ac80449e03450p-0000.flv?start={start_bytes}" stream="true" label="大追捕"/>
+<m type="qiyi" src="http://cache.video.qiyi.com/v/3b39a3823f7f45d0a0987f0857195087" label="玩命狙击" />
+<m type="" src="http://g3.letv.cn/11/29/24/2111617404.0.flv?start={start_bytes}" lrc="" stream="true" label="巨额交易" />
+<m type="qiyi" src="http://cache.video.qiyi.com/v/01ade044edd64ed0af1841c14568eeb2" label="杨门女将" />
+<m src="http://flv1.vodfile.m1905.com/movie/tliO8zR3lWwaMUqH.flv?start={start_bytes}" stream="true" label="狼牙2《高清》" />
+<m type="qiyi" src="http://cache.video.qiyi.com/v/e16867567b454b97a766aecc9d75935a/55/2/" label="林木人巷" />
+<m type="2" src="http://vslb.tv189.cn/2012/11/18/01/7023eaaa6e4f7091b5a551664e3610450p-0000.flv?start={start_bytes}" label="拆弹部队" />
+<m src="http://vslb.tv189.cn/2012/11/28/64/4587a9ec544620bafa14863a46b3b6450p-0000.flv?start={start_bytes}" stream="true" label="黑暗骑士崛起"/>
+<m type="qiyi" streamtype="1"src="http://cache.video.qiyi.com/v/54f7ed6b497f4afb9ce7234d56e70169" label="赛德克巴莱" />
+<m type="qiyi" src="http://cache.video.qiyi.com/v/dd940f4cab1a41928d89223ebe4b8fbe" label="街头之王" />
+<m type="qiyi" src="http://cache.video.qiyi.com/v/1736658476c140f480116c0fcce8e024" label="绝色武器" />
+<m src="http://vslb.tv189.cn/2012/08/13/10/9a1e0448ff44049266c5c4de133ed5450p-0000.flv?start={start_bytes}" stream="true" label="四大名捕"/>
+<m src="http://vslb.tv189.cn/2012/09/19/63/24095792c24c949bcff09a4ffa7c39450p-0000.flv?start={start_bytes}" stream="true" label="听风者 高清" />
+<m src="http://vslb.tv189.cn/2012/11/01/d6/9920e05f3a485f821c7033d31a8ecc450p-0000.flv?start={start_bytes}" stream="true" label="黑衣人3 高清" />
+<m src="http://g3.letv.cn/20/10/31/letv-uts/2a845d7caf37bddcc491984476f55d47_flv_350.flv?start={start_bytes}" stream="true" label="机械师" />
+<m type="qiyi" src="http://cache.video.qiyi.com/v/12b67fe27dd44243810c195ddbfea88a" label="大武当之天地密码" />
+<m src="http://g3.letv.com/18/23/68/letv-uts/1342666488-AVC-254150-AAC-31917-5305521-199655950-3a873d1903da6c1f6ef30fa19cfdf2b1-1342666488.flv?start={start_bytes}" stream="true" label="车手" />
+<m type="qiyi" src="http://cache.video.qiyi.com/v/70f3ccb7d0a54d5d9482dd175962c14f" label="痞子英雄全面开战" />
+<m type="youku" streamtype="flv" src="XNDE0MTQwNjY0" label="小孩不坏"/>
+<m type="youku" streamtype="flv" src="XNDI0NjAyNDYw" label="玩命追踪"/>
+<m type="qiyi" src="http://cache.video.qiyi.com/v/9a3572d32f214c4d81eebddd2ad0c859" label="三个火枪手" />
+<m src="http://119.97.158.38/14/29/35/2141488700.0.flv" label="大武生  " />
+<m src="http://119.97.158.45/15/31/102/2151398857.0.flv" label="回马枪  " />
+<m src="http://119.97.158.51/9/25/27/2091231253.0.flv" label="蔡李佛-极限拳速 " />
+<m src="http://119.97.158.56/14/34/67/2141314472.0.flv" label="关云长" />
+<m src="http://119.97.158.44/2/47/6/2021207027.0.flv" label="新少林寺" />
+<m src="http://119.97.158.56/14/34/67/2141314472.0.flv" label="关云长" />
+<m type="youku" streamtype="flv" password="" src="XMjE5OTM5ODI4" label="精武风云"/>
+<m type="youku" streamtype="flv" password="" src="XMjM1OTg4MTA4" label="赵氏孤儿 大陆版"/>
+<m type="youku" streamtype="flv" password="" src="XMTkxOTk0NDQ0" label="功夫梦"/>
+<m type="youku" streamtype="flv" password="" src="XMjYwNDk2NDY4" label="飞砂风中转"/>
+<m type="youku" streamtype="flv" password="" src="XMTk4NDc2MzEy" label="枪王之王"/>
+<m type="youku" streamtype="flv" password="" src="XMTQ4NDkyMzI4" label="窃听风云"/>
+<m type="youku" streamtype="flv" password="" src="XMjY0Mzk2ODM2" label="赤裸特工"/>
+<m type="youku" streamtype="flv" src="XMzI5NTc3MzY0" label="喋血街头 - 《经典》" />
+<m type="qiyi" streamtype="1"src="http://cache.video.qiyi.com/v/5250f3273eb94be3959fef0ed8f08e7c" label="窃听风云2 - 《经典》"/>
+<m type="youku" streamtype="flv" src="XMTgzNDIxODQw" label="阿飞正传 - 《经典》" />
+<m type="youku" streamtype="flv" src="XMTQxOTcyODQ0" label="天地雄心 - 《经典》"/>
+<m type="youku" streamtype="flv" src="XMTgzNDMzMDMy" label="五虎将之决裂 - 《经典》"/>
+<m type="qiyi" streamtype="1"src="http://cache.video.qiyi.com/v/409b36ff7f7549b7a3c89c54c75b6be5" label="野兽刑警 - 《经典》" />
+<m type="qiyi" streamtype="1"src="http://cache.video.qiyi.com/v/1537aab2fe8511dfaa6aa4badb2c35a1" label="火云传奇 - 《经典》" />
+<m type="qiyi" streamtype="1"src="http://cache.video.qiyi.com/v/b3a652ab97da4e138d81f14e053dc733" label="横财三千万 - 《经典》" />
+<m type="youku" streamtype="flv" src="XMzIzODMxMjM2" label="鬼马飞人 - 《经典》" />
+<m type="youku" streamtype="flv" src="XMzQzNDUzNDQ4" label="大话神探  - 《经典》" />
+<m type="qiyi" src="http://cache.video.qiyi.com/v/832c72eb69f74854913a7e2ce239ffa0" label="截拳道 = 《经典》" />
+<m type="qiyi" streamtype="1"src="http://cache.video.qiyi.com/v/15376372fe8511dfaa6aa4badb2c35a1" label="新少林五祖《经典》" />
+<m type="qiyi" src="http://cache.video.qiyi.com/v/373833e5edca4021af8984f3c1a42fcb/55/2/" label="飙车之车神传说" />
+<m src="http://220.178.229.2/12/43/90/letv-uts/1334219786-AVC-313150-AAC-58248-5745240-279003750-6d871f4e862be3ed9db0ecebc6cc2220-1334219786.flv?start={start_bytes}" lrc="" stream="true" label="警察故事3"/>
+<m type="qiyi" src="http://cache.video.qiyi.com/v/1abf742c341a401b9d4489ff1619fa8e" label="打雀英雄传 《经典》" />
+<m type="youku" streamtype="flv" src="XMTg5NDEzMDMy" label="古惑女之决战江湖《经典》"/>
+<m type="qiyi" src="http://cache.video.qiyi.com/v/3eda4ace1b9b4a038962849c5e65dd92" label="正牌韦小宝之奉旨沟女" />
+<m src="http://220.178.229.8/11/15/100/2111285321.0.flv?start={start_bytes}" stream="true" label="花魁杜十娘"/>
+<m type="tudou" src="http://v2.tudou.com/v2/cdn?id=130445014&rd={rd}" brt="2" label="金装大酒店 - 《经典》" />
+<m type="youku" streamtype="flv" src="XMTg4NTk0Mjcy" label="赌神1" />
+<m type="youku" streamtype="flv" src="XMzMxNTIxNDUy" label="赌神2" />
+<m src="http://g3.letv.com/3/52/68/203657854.0.flv?start={start_bytes}" stream="true" label="赌神3少年赌神" />
+<m type="youku" streamtype="flv" src="XMTg4NTk1MjA4" label="赌侠㈠" />
+<m type="youku" streamtype="flv" src="XMTkyODE3MTYw" label="赌侠㈡" />
+<m type="qiyi" streamtype="1"src="http://cache.video.qiyi.com/v/160c079efe8511dfaa6aa4badb2c35a1" label="赌侠3" />
+<m type="youku" streamtype="flv" src="XMTAyNzY5MjEy" label="赌霸㈠" />
+<m type="youku" streamtype="flv" src="XMTg2MDg3OTc2" label="赌尊㈠" />
+<m type="youku" streamtype="flv" src="XMTE3MDgyODcy" label="提防老千" />
+<m type="youku" streamtype="flv" src="XMTUyNjA4MTcy" label="赌城大亨之新哥传奇" />
+<m type="youku" streamtype="flv" src="XMTIxNzM5MTE2" label="赌城大亨2之至尊无敌" />
+<m type="youku" streamtype="flv" src="XNDQzMDUzNDQ=" label="赌王千霸" />
+<m type="youku" streamtype="flv" src="XMjc4NTkyMjA4" label="赢钱专家" />
+<m type="youku" streamtype="flv" src="XMTE1ODY5OTk2" label="中华赌侠" />
+<m type="qiyi" streamtype="1"src="http://cache.video.qiyi.com/v/15034434fe8511dfaa6aa4badb2c35a1" label="至尊无上1" />
+<m type="youku" streamtype="flv" src="XMTg5NDIzNjU2" label="至尊无上2" />
+<m type="youku" streamtype="flv"  src="XMjM0NzgwMzky=" label="赌圣1:周星驰/吴孟达 " />
+<m type="youku" streamtype="flv"  src="XMjg3NDAxMDI0=" label="赌圣2:周星驰/吴孟达 " />
+<m type="youku" streamtype="flv"  src="XMjYxMDAwNjI0=" label="黑侠VS赌圣 " />
+<m type="qiyi" src="http://cache.video.qiyi.com/v/0d5cc3b836664c6fbe91e1999f41f728/55/2/" label="新古惑仔之少年激斗篇" />
+<m type="youku" streamtype="flv" src="XMjcxNjQ5MjA4" label="黑狱断肠歌之砌生猪肉"/>
+<m type="youku" streamtype="flv"  src="XMjc2ODQ3MjQw" label="光头艳姬VS少年大兄" />
+<m type="youku" streamtype="flv"  src="XMzgyNTgwNjg" label="古惑仔系列之人在江湖" />
+<m type="youku" streamtype="flv"  src="XMzgyNTgyMTI" label="古惑仔系列之猛龙过江" />
+<m type="qiyi" src="http://cache.video.qiyi.com/v/3ee01c5239d64703a33ebb7d72d42f39/55/2/" label="古惑仔系列之只手遮天" />
+<m type="youku" streamtype="flv"  src="XMzgyNTgzMTI" label="古惑仔系列之战无不胜" />
+<m type="youku" streamtype="flv"  src="XMTYyNDAzNzY" label="古惑仔系列之龙争虎斗" />
+<m type="youku" streamtype="flv"  src="XMTg4NTg3MzU2" label="古惑仔系列之胜者为王" />
+<m type="youku" streamtype="flv"  src="XMzgyNTgxNzI" label="古惑仔系列之山鸡的故事" />
+<m type="youku" streamtype="flv"  src="XMTg4NTkxNjI0" label="古惑仔系列之九龙冰室" />
+<m type="youku" streamtype="flv"  src="XMjYzMDI1Mzg4" label="古惑仔系列之洪兴十三妹" />
+<m type="youku" streamtype="flv"  src="XMTY1NTgzMjcy" label="古惑仔系列之誓不低头" />
+<m type="youku" streamtype="flv"  src="XOTE0NzYxMTY" label="古惑仔系列之地狱龙" />    
+<m type="qiyi" src="http://cache.video.qiyi.com/v/dd04865e636f4febb44331dfeb0c1004" label="女孩青春发育胸大惹的祸" />
+<m type="sohu" streamtype="flv" src="20652" label="放逐《吴镇宇 黄秋生 张家辉 任达华》" />
+<m src="http://g3.letv.com/13/18/71/2131520448.0.flv?start={start_bytes}" stream="true" label="狂暴飞车 国语版 尼古拉斯·凯奇" />
+<m src="http://f3.r.56.com/f3.c89.56.com/flvdownload/14/11/sc_135017614133hd.flv?start={start_bytes}" stream="true" label="火线保镖/赶尽杀绝" />
+<m src="http://f5.r.56.com/f5.c105.56.com/flvdownload/14/20/sc_135262078489hd.flv?start={start_bytes}" stream="true" label="寒战《高清版 郭富城 梁家辉 刘德华》" />
+
+<m type="youku" streamtype="flv" src="XMjcxNjQ5MjA4" label=" 黑狱断肠歌之砌生猪肉" />
+<m type="qiyi" src="http://cache.video.qiyi.com/v/fead220dc9c443f791dab37cade28779" label=" 飞龙猛将" />
+<m src="http://g3.letv.cn/15/32/32/letv-uts/1335956256-AVC-312949-AAC-58197-5562589-269954042-2fb523dd60052a96cab496d4fab5befd-1335956256.flv?start={start_bytes}" lrc="" stream="true" label=" 西环的故事" />
+<m type="youku" streamtype="flv" src="XMTA1Mjk4MDk2" label="人鬼蛇狐大决斗(1978黄家达)" />
+<m type="youku" streamtype="flv" src="XMTAyNTA2MDU2" label="【蚂蚁】鬼井" />
+<m type="youku" streamtype="flv" src="XMTMyMDMXNzQ4" label="【蚂蚁】养鬼仔" />
+<m type="youku" streamtype="flv" src="XOTg5NTE1NTI=" label="【蚂蚁】清鬼清妖" />
+
+<m type="qiyi" src="http://cache.video.qiyi.com/v/6d9b0fa1deec4ea3a9ce7adf7e0848ad/53/2/" label="001-歼十出击" />
+<m type="youku" streamtype="flv"  src="XMjMxMDQyOTg4" label="002 - 同门" />
+<m type="youku" streamtype="flv"  src="XMTk2ODA0ODg" label="003 - 血门徒" />
+<m type="youku" streamtype="flv"  src="XMTU5NjU5MTA0" label="004 - 佣兵传奇" />
+<m type="youku" streamtype="flv"  src="XMjk3MzIxMjY0" label="005 - 锁王" />
+<m type="youku" streamtype="flv"  src="XMjQ1MTIzNzgw" label="008 - 全城戒备" />
+<m type="youku" streamtype="flv"  src="XMTc1NDc3NDY0" label="010 - 追捕" />
+<m type="youku" streamtype="flv"  src="XNDA5MTM4NDQ" label="011 - 击情岁月" />
+<m type="youku" streamtype="flv"  src="XMzI0NDkwNDky" label="012 - 六指琴魔" />
+<m type="youku" streamtype="flv"  src="XMTU0MjY2ODY0" label="013 - 黑白战场" />
+<m type="youku" streamtype="flv"  src="NDkwODU5ODg" label="014 - 生死对决" />
+<m type="youku" streamtype="flv"  src="XMjMxNDk2MTQ0" label="015 - 飞虎" />
+<m type="youku" streamtype="flv" src="XMTg5MzcwMTI0" label="016 - 紫雨风暴"/>
+<m type="youku" streamtype="flv" src="XMTEwMzQwODAw" label="017 - 蝎子"/>
+<m type="youku" streamtype="flv" src="XMTQ5MTk4MjQ0" label="018 - 我的唐朝兄弟"/>
+<m type="youku" streamtype="flv" src="XMTk2NDk5MzA4" label="019 - 双雄"/>
+<m type="youku" streamtype="flv" src="XMzI3MzMzNzY4" label="022 - 杀手之王"/>
+<m type="youku" streamtype="flv" src="XMTgzNDEzMDA4" label="024 - 大事件"/>
+<m type="youku" streamtype="flv" src="XNTk1NjI1NTI" label="025 - 誓不罢休"/>
+<m type="youku" streamtype="flv" src="XMjYzNDMwODc2" label="026 - 撕票风云"/>
+<m type="youku" streamtype="flv" src="XMzExODg5MDI0" label="027 - 皇家战士 "/>
+<m type="youku" streamtype="flv" src="XNzIxMTMxMzI" label="028 - 杀人者唐斩"/>
+<m type="youku" streamtype="flv" src="XMTU4NzI4MTY=" label="029 - 鼠辈横行 "/>
+<m type="youku" streamtype="flv" src="XMTIxODYwMzcy" label="030 - 生死拳"/>
+<m src="http://g3.letv.cn/13/40/55/2131495075.0.flv?start={start_bytes}" stream="true" label="031 - 孤胆特工" />
+<m type="youku" streamtype="flv" src="XMzQxNDMxNTky" label="034 - 龙行天下"/>
+<m type="youku" streamtype="flv" src="XNTUxMjc0ODQ=" label="035 - 天涯明月刀"/>
+<m type="youku" streamtype="flv" src="XMTk2NTEzNDY4" label="036 - 火龙对决"/>
+<m type="youku" streamtype="flv" src="XMzM1MDgwNDY4" label="037 - 神探"/>
+<m type="youku" streamtype="flv" src="XOTkyODMyOTI=" label="038 - 原是武器"/>
+<m type="youku" streamtype="flv" src="XMjQ1MTY2NTQ4" label="040 - 苏乞儿2010"/>
+<m type="youku" streamtype="flv" src="XMTQwNTEyNTg0" label="041 - 天行者"/>
+<m type="youku" streamtype="flv" src="XMjgxMzAyNzMy" label="045 - 蔡李佛拳"/>
+<m type="youku" streamtype="flv" src="XMzM1MDgwNDY4" label="046 - 神探"/>
+<m type="youku" streamtype="flv" src="XMzAyMDQyMjcy" label="047 - 特警屠龙"/>
+<m type="youku" streamtype="flv" src="XMTg4NTg1MDQ4" label="049 - 黑白道"/>
+<m src="http://g3.letv.cn/9/17/86/2091181324.0.flv?start={start_bytes}" stream="true" label="050 - 截拳道" />
+<m type="youku" streamtype="flv" src="XMzQzNDMwOTYw" label="052 - 小英雄大闹唐人街"/>
+<m type="youku" streamtype="flv" src="XMzQ1ODQ4NzY0" label="053 - 凉山寻宝"/>
+<m type="youku" streamtype="flv" src="XMTk1NzQ3NTY0" label="054 - 枪手"/>
+<m type="youku" streamtype="flv" src="XMzUxMDk1MjA4" label="055 - 黑雪 香港版"/>
+<m type="youku" streamtype="flv" src="XMTk5MTMwOTcy" label="056 - 倒计时"/>
+<m type="youku" streamtype="flv" src="XMzI5NzAxNDY4" label="057 - 杨过与小龙女"/>
+<m type="youku" streamtype="flv" src="XMzMxMDIyNzQ0" label="058 - 笑林三十七房"/>
+<m type="youku" streamtype="flv" src="XMTg5MzY1Mjcy" label="059 - 无间道2"/>
+<m type="youku" streamtype="flv" src="XMjU4OTE2NjM2" label="060 - 李洛夫奇案"/>
+<m type="youku" streamtype="flv" src="XMzQxMTc3MzA4" label="061 - 奇逢敌手"/>
+<m type="youku" streamtype="flv" src="XMTQ4NDkyMzI4" label="062 - 窃听风云"/>
+<m type="youku" streamtype="flv" src="XMTMwODQ5MjA4" label="064 - 再战江湖"/>
+<m type="youku" streamtype="flv" src="XMzM4MjU3ODY0" label="065 - 情癫大圣2"/>
+<m type="youku" streamtype="flv" src="XMTg5NDEzNzc2" label="066 - 神偷次世代"/>
+<m type="youku" streamtype="flv" src="XMTk5Mzg0MjYw" label="067 - 满城尽带黄金甲"/>
+<m type="youku" streamtype="flv" src="XMzQxMTc1MDY4" label="069 - 风雨同路"/>
+<m type="youku" streamtype="flv" src="XMTg2MTA0NDY4" label="070 - 忠奸盗"/>
+<m type="youku" streamtype="flv" src="XMTgzNDE4Nzg4" label="071 - 天若有情2"/>
+<m type="youku" streamtype="flv" src="XMTM5NDg1Njg4" label="072 - 中南海保镖"/>
+<m type="youku" streamtype="flv" src="XMTE5MjI4MTA4" label="073 - 我的特工女友"/>
+<m type="youku" streamtype="flv" src="XMzI3NjQ3NDc2" label="074 - 三国之见龙卸甲"/>
+<m type="youku" streamtype="flv" src="XMjMxMDQ0Njg4" label="075 - 意外"/>
+<m type="youku" streamtype="flv" src="XMTg5NDEyMDIw" label="076 - 新英雄本色"/>
+<m type="youku" streamtype="flv" src="XMzQzODAyNTIw" label="077 - 枪王"/>
+<m type="youku" streamtype="flv" src="XMjk5NDMxMDMy" label="078 - 终极快递"/>
+<m type="youku" streamtype="flv" src="XMzU3NTczNzY0" label="079 - 逃亡鳄鱼岛"/>
+<m type="youku" streamtype="flv" src="XMTgzNDE2NDIw" label="080 - 东方三侠"/>
+<m type="youku" streamtype="flv" src="XMzQ3NjU2Nzg0" label="081 - 皇家师姐4"/>
+<m type="youku" streamtype="flv" src="XMTg5NDI1Mzgw" label="084 - 英雄好汉"/>
+<m type="youku" streamtype="flv" src="XMjk3NDgwNTgw" label="085 - 武侠"/>
+<m type="youku" streamtype="flv" src="XMjg1ODc2OTE2" label="086 - 全职大盗"/>
+<m type="youku" streamtype="flv" src="XMzIxMTUwNjg0" label="087 - 我的野蛮同学"/>
+<m type="youku" streamtype="flv" src="XMTg2MTI4NDU2" label="088 - 特警神龙"/>
+<m type="youku" streamtype="flv" src="XMzA4NjQ3NTY0" label="089 - 猛龙过江"/>
+<m type="youku" streamtype="flv" src="XMzU0NjQzMTY4" label="090 - 精武家庭"/>
+<m type="youku" streamtype="flv" src="XMTczNjYyMjk2" label="091 - 弹道" />
+<m type="youku" streamtype="flv" src="XMjY2NDE2MDQ0" label="092 - 硬汉2奉陪到底" />
+<m type="youku" streamtype="flv" src="XMzIyOTAwNzc2" label="093 - 英雄本色2" />
+<m type="youku" streamtype="flv" src="XMjE0ODk1NTA4" label="094 - 倩女幽魂2 " />
+<m type="youku" streamtype="flv" src="XOTUyODMwMDA=" label="095 - 世界太残忍 " />
+<m type="youku" streamtype="flv" src="XMzIwNTIzMjY0" label="096 - 烈火战车2" />
+<m type="youku" streamtype="flv" src="XMzIwNjM3NTgw" label="097 - 烈火战车1"/>
+<m type="youku" streamtype="flv" src="XMzQxMTc3MzA4" label="098 - 奇逢敌手"/>
+<m type="youku" streamtype="flv" src="XMzA4MjY3NDcy" label="099 - 七小福"/>
+<m type="youku" streamtype="flv" src="XMTc5MDY3Mjg=" label="100 - 飞渡卷云山"/>
+<m type="youku" streamtype="flv" src="XMzc4MzQyNDQ4" label="101 - L之潜罪犯"/>
+<m type="youku" streamtype="flv" src="XMzQxNzYwMTg4" label="102 - 安乐战场"/>
+<m type="youku" streamtype="flv" src="XMTkxNDk0NTI4" label="103 - 我的老婆是大佬2"/>
+<m type="youku" streamtype="flv" src="XMzI0Mzg5NzAw" label="104 - 连琐"/>
+<m type="youku" streamtype="flv" src="XMjQ1MTY2NTQ4" label="105 - 苏乞儿 10版"/>
+<m type="youku" streamtype="flv" src="XMTA0MzM4MTUy" label="106 - 惊天大贼王" /> 
+<m type="youku" streamtype="flv" src="XMzA4NTA0Njky" label="107 - 窃听风云2" /> 
+<m type="youku" streamtype="flv" src="XMzE0NDk5MjYw" label="108 - 帝国刺客" />
+<m type="youku" streamtype="flv" src="XMzQxNDIzNDMy" label="109 - 老虎出更2" />
+<m type="youku" streamtype="flv" src="XMzQwMzY3MDcy" label="110 - 三不管" />
+<m type="youku" streamtype="flv" src="XMzQxNDQ3MTgw" label="117 - 死亡塔" />
+<m type="youku" streamtype="flv"  src="XMTg5NDI1Mzgw" label="118 -  英雄好汉" />
+<m type="youku" streamtype="flv" src="XNzQ2OTkwMDg==caa" label="119 - 旺角的天空之终极 "/>
+<m type="youku" streamtype="flv" src="XMTk1OTE1MTgw" label="120 - 火烧岛之横行霸道 "/>
+<m type="youku" streamtype="flv" src="XMzQxMzM5MjQ4" label="121 - 铁血骑警 "/>
+<m src="http://114.80.187.210/3/9/6/203498566.0.flv?start={start_bytes}" stream="true" label="122 - 疯狂的赛车"/>
+<m type="youku" streamtype="flv" src="XNTk1OTUxNzY=" label="123 - 围城辑凶 "/>
+<m type="tudou" src="http://v2.tudou.com/v2/cdn?id=149284417" brt="2" label="124 - 出笼马骝" />
+<m type="youku" streamtype="flv" src="XNTAzMjU4MTY" label="125 - 黄飞鸿之鬼脚七 "/>
+<m type="qiyi" src="http://cache.video.qiyi.com/v/c210cc8c2e58479188ddefbc2585dd2c/55/2/"label="127 - 龙在江湖" /> 
+<m type="qiyi" src="http://cache.video.qiyi.com/v/154e9f4cfe8511dfaa6aa4badb2c35a1/55/2/" label="128 - 金钱帝国" />
+<m type="qiyi" src="http://cache.video.qiyi.com/v/0826c0f73e8f40868d392c591a26a0f2/53/2/" label="129 - 李小龙我的兄弟" />
+<m type="tudou" src="http://v2.tudou.com/v2/cdn?id=67615885" brt="2" label="130 - 集结号" />  
+<m type="qiyi" src="http://cache.video.qiyi.com/v/d854ac22f86e4989b43fa0407d7ae87e/55/2/" label="131 - 血洗唐人街" />
+<m type="youku" streamtype="flv"  src="XODMyNjg2MzI=" label="132 - 天有眼"  />
+<m type="youku" streamtype="flv"  src="XMjk0MTQ4NjM2" label="133 - 魁拔之十万火急"  />
+<m type="youku" streamtype="flv"  src="XMTk3Mjc0ODYw" label="151-盗马贼"  />
+<m type="tudou" src="http://v2.tudou.com/v2/cdn?id=121526653" brt="2" label="152- 新喋血双雄" />
+<m type="youku" streamtype="flv"  src="XMTgzNDg4ODI4" label="153 - 金三角群英会" />
+<m type="tudou" src="http://v2.tudou.com/v2/cdn?id=126354580" brt="2" label="154 - 积奇玛莉" />
+<m type="youku" streamtype="flv"  src="XMTA2MjA2MjI0" label="155 - 初生之犊" />
+<m type="tudou" src="http://v2.tudou.com/v2/cdn?id=61455583" brt="2" label="156 - 撕票风云" />
+<m type="youku" streamtype="flv"  src="XMzAwMDA0MjY4" label="157 - 新扎师兄" />
+<m type="tudou" src="http://v2.tudou.com/v2/cdn?id=21179415" brt="2" label="158 - PTU女警之偶然陷阱" />
+<m type="youku" streamtype="flv"  src="XMTE2MDIyMTg0" label="159 - 里情" />
+<m type="youku" streamtype="flv"  src="XMzQ1OTU2MzI4" label="160 - 皇家保镖" />
+<m type="youku" streamtype="flv"  src="XMTY2NDk2NzA4" label="161 - 少年阿虎" />
+<m type="qiyi" src="http://cache.video.qiyi.com/v/5b41165f38a64af8952412b3714560c3/55/2/" label="162 - 喋血街头" />
+<m type="tudou" src="http://v2.tudou.com/v2/cdn?id=62889587" brt="2" label="163 - 终极忍者" />
+<m type="youku" streamtype="flv"  src="XNzE2NjY0ODQ=" label="164 - 冲锋队怒火街头" />
+
+
+
+
+
+
+
+
+
+<m src="http://vslb.tv189.cn/2011/12/21/8e/af8bc0f7d646fa851bb5d781d39b09720p-0000.flv?start={start_bytes}" lrc="" stream="true" label="超级8" />
+<m src="http://vslb.tv189.cn/2011/06/30/1c/8f92996c7f432c8ca26a804f81b48a450p-0000.flv?start={start_bytes}" lrc="" stream="true" label="动作杰克森" />
+<m src="http://g3.letv.cn/20/4/111/letv-uts/804085-AVC-537745-AAC-31586-5640996-415024560-6970b20e07eb5c08d26f9445cad35025-1352369665537.flv?start={start_bytes}" lrc="" stream="true" label="太极1之从零开始" />
+<m type="sohu"  streamtype="flv" src="http://my.tv.sohu.com/videinfo.jhtml?m=viewnew&vid=50863271" label="太极2：英雄崛起 超清" color="#ff0000, #00ff00"/>
+<m type="qiyi" src="http://cache.video.qiyi.com/v/e46184b15a6545a1ac4886a3097e0770/53560/2/" label="白昼冷光" />
+<m type="qiyi" src="http://cache.video.qiyi.com/v/3f0ca1272ece42b09a6038fa2594eb7f/57/2/" label="百变飞车" />
+<m src="http://g3.letv.com/26/35/107/letv-uts/1048200-AVC-254702-AAC-31586-6359375-237463194-8cebdb8716b9ce2d3c88ebd7839a9001-1354630475017.flv?start={start_bytes}" stream="true" label="在劫难逃 高清完整版" />
+<m src="http://g3.letv.com/17/50/110/letv-uts/497130-AVC-254700-AAC-31586-4937664-184399417-d547b8ea3f98b04010b149d4f308863b-1346760039041.flv?start={start_bytes}" stream="true" label="热血街头 高清完整版" />
+<m src="http://g3.letv.com/19/8/18/13452722901597594.0.flv?start={start_bytes}" stream="true" label="遍地狼烟 高清完整版" />
+<m src="http://g3.letv.com/13/40/55/2131495075.0.flv?start={start_bytes}" stream="true" label="孤胆特工 高清完整版" />
+<m src="http://g3.letv.com/13/22/95/2131451019.0.flv?start={start_bytes}" stream="true" label="无极限之危情速递 高清完整版" />
+<m type="qiyi" src="http://cache.video.qiyi.com/v/14f7c8f2fe8511dfaa6aa4badb2c35a1/55/2/" label="幻影特攻" />
+<m type="qiyi" src="http://cache.video.qiyi.com/v/14f0c976fe8511dfaa6aa4badb2c35a1/55/2/" label="神枪手" />
+<m type="qiyi" src="http://cache.video.qiyi.com/v/15a0cb78fe8511dfaa6aa4badb2c35a1/58/2/" label="杀手公司" />
+<m type="qiyi" src="http://cache.video.qiyi.com/v/b642331350d74bf28eef1e02cd33dfb5/55/2/" label="暗战" />
+<m type="qiyi" src="http://cache.video.qiyi.com/v/15a0c060fe8511dfaa6aa4badb2c35a1/58/2/" label="卑劣的街头" />
+<m src="http://g3.letv.cn/20/42/86/letv-uts/e447b59ed26ae3908c57f3466578449f_350.flv?start={start_bytes}" stream="true" label="敢死队2 《高清》"/>
+<m type="tudou" src="http://v2.tudou.com/v2/cdn?id=62564875&rd={rd}" brt="2" label="敢死队1" />
+<m src="http://g3.letv.com/20/9/81/letv-uts/274585-AVC-254226-AAC-31586-6705259-249973354-742ec55581dee4f601abf635360e4255-1346685605149.flv?start={start_bytes}" stream="true" label="极速天使 高清完整版" />
+<m type="2" src="http://g3.letv.cn/20/49/71/letv-uts/767850-AVC-537910-AAC-63097-5342149-416428876-4d599233dc16e5d6bb810adbc6379f58-1351792902826.flv?start={start_bytes}"  label="拳皇 高清" />
+<m src="http://g3.letv.com/6/26/30/206897803.0.flv?start={start_bytes}" stream="true" label="全城戒备 高清完整版" />
+<m src="http://221.235.189.220:80//data4/cdn_transfer/64/C8/64fe5dfd279d7a0effa11186988eabddf747afc8_1.flv?start={start_bytes}" lstream="true" label="雄雌大盗 日本变态雄雌双煞" />
+<m src="http://61.139.103.6:80//data3/cdn_transfer/D9/57/d987d9a97523514c951a708740c26177d9579b57_1.flv?start={start_bytes}" stream="true" label="叛谍追击 高清" />
+<m src="http://122.228.255.184:80//data1/cdn_transfer/CF/7B/cf4d9bcb497f4247c6bc9e09779b238abc8ae47b_1.flv?start={start_bytes}" stream="true" label="黑山匪帮" />
+<m src="http://180.153.91.25:80//data6/cdn_transfer/5D/BA/5d054887815f8c7767401ee2088abe0e59c775ba_1.flv?start={start_bytes}" stream="true" label="神探人兽机关枪" />
+<m src="http://61.139.103.44:80//data3/cdn_transfer/65/A0/65e8744f601ad54af0ce73b23d75bf4d95664fa0_1.flv?start={start_bytes}" stream="true" label="神探亨特张" />
+<m type="2" src="http://vurl.pps.tv/ugc/f/dc/f5078d1db60669640f61e2e36724e97f7ed933d2/f5078d1db60669640f61e2e36724e97f7ed933d2.pfv?start={start_bytes}" stream="true" label="双截棍/双节棍" />
+<m src="http://vurl.pps.tv/ugc/7/a2/733cbb6f755d660cf13016aeec48993b242f9196/733cbb6f755d660cf13016aeec48993b242f9196.pfv?start={start_bytes}" stream="true" label="纵横四海" />
+<m src="http://vurl.pps.tv/ugc/f/97/f167b00e36b298cb439d29db49d5ec2bf65c8a8c/f167b00e36b298cb439d29db49d5ec2bf65c8a8c.pfv?start={start_bytes}" stream="true" label="特警屠龙" />
+<m src="http://vurl.pps.tv/ugc/5/ea/5205e4f64068c806ab9f5afe75396377a5516efd/5205e4f64068c806ab9f5afe75396377a5516efd.pfv?start={start_bytes}" stream="true" label="街女" />
+<m src="http://vurl.pps.tv/ugc/1/1d/1e8b8968d9fe479e7bf19fc82d2fd20a40d975a0/1e8b8968d9fe479e7bf19fc82d2fd20a40d975a0.pfv?start={start_bytes}" stream="true" label="老虎出更" />
+<m src="http://vurl.pps.tv/ugc/5/dc/58e44c3bc3acbccb3a4d4ae2e450997f84e0fd67/58e44c3bc3acbccb3a4d4ae2e450997f84e0fd67.pfv?start={start_bytes}" stream="true" label="无间风云" />
+<m type="2" src="http://v2.cnzey.com:86/vod/dy/201211/HanZhanQingXiTSWanZhengBan.flv?start={start_bytes}" label="寒战"/>
+<m type="2" src="http://vslb.tv189.cn/2012/10/25/92/ab27f5882045c0b5d409b4f822303d450p-0000.flv?start={start_bytes}" duration="6360" bytes="379904862" label="危险关系 高清" />
+<m type="2" src="http://vslb.tv189.cn/2012/08/03/2a/7c7552df754c6aa8d9b329d3c1bf50450p-0000.flv?start={start_bytes}" duration="7680" bytes="453567418" label="大侦探福尔摩斯 高清" />
+<m type="qiyi" src="http://cache.video.qiyi.com/v/aae1bfe59616482bb661feccd6dc5b4e" label="无间谍局" />
+<m type="2" src="http://vslb.tv189.cn/2012/07/19/08/886b5420b74515aaa6da48129bc15c450p-0000.flv?start={start_bytes}" duration="7920" bytes="476870709" label="碟中谍4" />
+<m type="youku" streamtype="flv" src="XMzg5MzQ1NTYw" label="武士之鞘"/>
+<m src="http://g3.letv.com/19/34/13/letv-uts/1342613005-AVC-254707-AAC-31921-5417836-204318931-c3344affc170cc8e29ae9973ee72537f-1342613005.flv?start={start_bytes}" stream="true" label="复仇者之死" />
+<m src="http://g3.letv.cn/19/17/71/letv-uts/572102-AVC-254748-AAC-31586-5274214-197005608-07d8454423b14348829c07cd537b5008-1348048183762.flv?start={start_bytes}" stream="true" label="非常绑匪"/>
+<m  type="youku" streamtype="flv" src="XNDA1NzI1Nzc2" label="终极武器"/>
+<m src="http://g3.letv.cn/20/44/94/letv-uts/304112-AVC-254741-AAC-31586-7026020-262435934-3462d501a969ea6e9e5e7bd6d3493e6c-1345837853110.flv?start={start_bytes}" stream="true" label="盗亦有道"/>
+<m type="qiyi" src="http://cache.video.qiyi.com/v/b3cdbc91350f4e0ea2c002ed5dde1243" label="纽约行动" />
+<m src="http://vslb.tv189.cn/2012/06/08/9d/c76e3252334b779fd9e95e933ecfac450p-0000.flv?start={start_bytes}" stream="true" label="逆战"/>
+<m src="http://vslb.tv189.cn/2012/04/24/b0/56c1925a5c4dfcbb00a1ac80449e03450p-0000.flv?start={start_bytes}" stream="true" label="大追捕"/>
+<m type="qiyi" src="http://cache.video.qiyi.com/v/3b39a3823f7f45d0a0987f0857195087" label="玩命狙击" />
+<m type="" src="http://g3.letv.cn/11/29/24/2111617404.0.flv?start={start_bytes}" lrc="" stream="true" label="巨额交易" />
+<m type="qiyi" src="http://cache.video.qiyi.com/v/01ade044edd64ed0af1841c14568eeb2" label="杨门女将" />
+<m src="http://flv1.vodfile.m1905.com/movie/tliO8zR3lWwaMUqH.flv?start={start_bytes}" stream="true" label="狼牙2《高清》" />
+<m type="qiyi" src="http://cache.video.qiyi.com/v/e16867567b454b97a766aecc9d75935a/55/2/" label="林木人巷" />
+<m type="2" src="http://vslb.tv189.cn/2012/11/18/01/7023eaaa6e4f7091b5a551664e3610450p-0000.flv?start={start_bytes}" label="拆弹部队" />
+<m src="http://vslb.tv189.cn/2012/11/28/64/4587a9ec544620bafa14863a46b3b6450p-0000.flv?start={start_bytes}" stream="true" label="黑暗骑士崛起"/>
+<m type="qiyi" streamtype="1"src="http://cache.video.qiyi.com/v/54f7ed6b497f4afb9ce7234d56e70169" label="赛德克巴莱" />
+<m type="qiyi" src="http://cache.video.qiyi.com/v/dd940f4cab1a41928d89223ebe4b8fbe" label="街头之王" />
+<m type="qiyi" src="http://cache.video.qiyi.com/v/1736658476c140f480116c0fcce8e024" label="绝色武器" />
+<m src="http://vslb.tv189.cn/2012/08/13/10/9a1e0448ff44049266c5c4de133ed5450p-0000.flv?start={start_bytes}" stream="true" label="四大名捕"/>
+<m src="http://vslb.tv189.cn/2012/09/19/63/24095792c24c949bcff09a4ffa7c39450p-0000.flv?start={start_bytes}" stream="true" label="听风者 高清" />
+<m src="http://vslb.tv189.cn/2012/11/01/d6/9920e05f3a485f821c7033d31a8ecc450p-0000.flv?start={start_bytes}" stream="true" label="黑衣人3 高清" />
+<m src="http://g3.letv.cn/20/10/31/letv-uts/2a845d7caf37bddcc491984476f55d47_flv_350.flv?start={start_bytes}" stream="true" label="机械师" />
+<m type="qiyi" src="http://cache.video.qiyi.com/v/12b67fe27dd44243810c195ddbfea88a" label="大武当之天地密码" />
+<m src="http://g3.letv.com/18/23/68/letv-uts/1342666488-AVC-254150-AAC-31917-5305521-199655950-3a873d1903da6c1f6ef30fa19cfdf2b1-1342666488.flv?start={start_bytes}" stream="true" label="车手" />
+<m type="qiyi" src="http://cache.video.qiyi.com/v/70f3ccb7d0a54d5d9482dd175962c14f" label="痞子英雄全面开战" />
+<m type="youku" streamtype="flv" src="XNDE0MTQwNjY0" label="小孩不坏"/>
+<m type="youku" streamtype="flv" src="XNDI0NjAyNDYw" label="玩命追踪"/>
+<m type="qiyi" src="http://cache.video.qiyi.com/v/9a3572d32f214c4d81eebddd2ad0c859" label="三个火枪手" />
+<m src="http://119.97.158.38/14/29/35/2141488700.0.flv" label="大武生  " />
+<m src="http://119.97.158.45/15/31/102/2151398857.0.flv" label="回马枪  " />
+<m src="http://119.97.158.51/9/25/27/2091231253.0.flv" label="蔡李佛-极限拳速 " />
+<m src="http://119.97.158.56/14/34/67/2141314472.0.flv" label="关云长" />
+<m src="http://119.97.158.44/2/47/6/2021207027.0.flv" label="新少林寺" />
+<m src="http://119.97.158.56/14/34/67/2141314472.0.flv" label="关云长" />
+<m type="youku" streamtype="flv" password="" src="XMjE5OTM5ODI4" label="精武风云"/>
+<m type="youku" streamtype="flv" password="" src="XMjM1OTg4MTA4" label="赵氏孤儿 大陆版"/>
+<m type="youku" streamtype="flv" password="" src="XMTkxOTk0NDQ0" label="功夫梦"/>
+<m type="youku" streamtype="flv" password="" src="XMjYwNDk2NDY4" label="飞砂风中转"/>
+<m type="youku" streamtype="flv" password="" src="XMTk4NDc2MzEy" label="枪王之王"/>
+<m type="youku" streamtype="flv" password="" src="XMTQ4NDkyMzI4" label="窃听风云"/>
+<m type="youku" streamtype="flv" password="" src="XMjY0Mzk2ODM2" label="赤裸特工"/>
+<m type="youku" streamtype="flv" src="XMzI5NTc3MzY0" label="喋血街头 - 《经典》" />
+<m type="qiyi" streamtype="1"src="http://cache.video.qiyi.com/v/5250f3273eb94be3959fef0ed8f08e7c" label="窃听风云2 - 《经典》"/>
+<m type="youku" streamtype="flv" src="XMTgzNDIxODQw" label="阿飞正传 - 《经典》" />
+<m type="youku" streamtype="flv" src="XMTQxOTcyODQ0" label="天地雄心 - 《经典》"/>
+<m type="youku" streamtype="flv" src="XMTgzNDMzMDMy" label="五虎将之决裂 - 《经典》"/>
+<m type="qiyi" streamtype="1"src="http://cache.video.qiyi.com/v/409b36ff7f7549b7a3c89c54c75b6be5" label="野兽刑警 - 《经典》" />
+<m type="qiyi" streamtype="1"src="http://cache.video.qiyi.com/v/1537aab2fe8511dfaa6aa4badb2c35a1" label="火云传奇 - 《经典》" />
+<m type="qiyi" streamtype="1"src="http://cache.video.qiyi.com/v/b3a652ab97da4e138d81f14e053dc733" label="横财三千万 - 《经典》" />
+<m type="youku" streamtype="flv" src="XMzIzODMxMjM2" label="鬼马飞人 - 《经典》" />
+<m type="youku" streamtype="flv" src="XMzQzNDUzNDQ4" label="大话神探  - 《经典》" />
+<m type="qiyi" src="http://cache.video.qiyi.com/v/832c72eb69f74854913a7e2ce239ffa0" label="截拳道 = 《经典》" />
+<m type="qiyi" streamtype="1"src="http://cache.video.qiyi.com/v/15376372fe8511dfaa6aa4badb2c35a1" label="新少林五祖《经典》" />
+<m type="qiyi" src="http://cache.video.qiyi.com/v/373833e5edca4021af8984f3c1a42fcb/55/2/" label="飙车之车神传说" />
+<m src="http://220.178.229.2/12/43/90/letv-uts/1334219786-AVC-313150-AAC-58248-5745240-279003750-6d871f4e862be3ed9db0ecebc6cc2220-1334219786.flv?start={start_bytes}" lrc="" stream="true" label="警察故事3"/>
+<m type="qiyi" src="http://cache.video.qiyi.com/v/1abf742c341a401b9d4489ff1619fa8e" label="打雀英雄传 《经典》" />
+<m type="youku" streamtype="flv" src="XMTg5NDEzMDMy" label="古惑女之决战江湖《经典》"/>
+<m type="qiyi" src="http://cache.video.qiyi.com/v/3eda4ace1b9b4a038962849c5e65dd92" label="正牌韦小宝之奉旨沟女" />
+<m src="http://220.178.229.8/11/15/100/2111285321.0.flv?start={start_bytes}" stream="true" label="花魁杜十娘"/>
+<m type="tudou" src="http://v2.tudou.com/v2/cdn?id=130445014&rd={rd}" brt="2" label="金装大酒店 - 《经典》" />
+<m type="youku" streamtype="flv" src="XMTg4NTk0Mjcy" label="赌神1" />
+<m type="youku" streamtype="flv" src="XMzMxNTIxNDUy" label="赌神2" />
+<m src="http://g3.letv.com/3/52/68/203657854.0.flv?start={start_bytes}" stream="true" label="赌神3少年赌神" />
+<m type="youku" streamtype="flv" src="XMTg4NTk1MjA4" label="赌侠㈠" />
+<m type="youku" streamtype="flv" src="XMTkyODE3MTYw" label="赌侠㈡" />
+<m type="qiyi" streamtype="1"src="http://cache.video.qiyi.com/v/160c079efe8511dfaa6aa4badb2c35a1" label="赌侠3" />
+<m type="youku" streamtype="flv" src="XMTAyNzY5MjEy" label="赌霸㈠" />
+<m type="youku" streamtype="flv" src="XMTg2MDg3OTc2" label="赌尊㈠" />
+<m type="youku" streamtype="flv" src="XMTE3MDgyODcy" label="提防老千" />
+<m type="youku" streamtype="flv" src="XMTUyNjA4MTcy" label="赌城大亨之新哥传奇" />
+<m type="youku" streamtype="flv" src="XMTIxNzM5MTE2" label="赌城大亨2之至尊无敌" />
+<m type="youku" streamtype="flv" src="XNDQzMDUzNDQ=" label="赌王千霸" />
+<m type="youku" streamtype="flv" src="XMjc4NTkyMjA4" label="赢钱专家" />
+<m type="youku" streamtype="flv" src="XMTE1ODY5OTk2" label="中华赌侠" />
+<m type="qiyi" streamtype="1"src="http://cache.video.qiyi.com/v/15034434fe8511dfaa6aa4badb2c35a1" label="至尊无上1" />
+<m type="youku" streamtype="flv" src="XMTg5NDIzNjU2" label="至尊无上2" />
+<m type="youku" streamtype="flv"  src="XMjM0NzgwMzky=" label="赌圣1:周星驰/吴孟达 " />
+<m type="youku" streamtype="flv"  src="XMjg3NDAxMDI0=" label="赌圣2:周星驰/吴孟达 " />
+<m type="youku" streamtype="flv"  src="XMjYxMDAwNjI0=" label="黑侠VS赌圣 " />
+<m type="qiyi" src="http://cache.video.qiyi.com/v/0d5cc3b836664c6fbe91e1999f41f728/55/2/" label="新古惑仔之少年激斗篇" />
+<m type="youku" streamtype="flv" src="XMjcxNjQ5MjA4" label="黑狱断肠歌之砌生猪肉"/>
+<m type="youku" streamtype="flv"  src="XMjc2ODQ3MjQw" label="光头艳姬VS少年大兄" />
+<m type="youku" streamtype="flv"  src="XMzgyNTgwNjg" label="古惑仔系列之人在江湖" />
+<m type="youku" streamtype="flv"  src="XMzgyNTgyMTI" label="古惑仔系列之猛龙过江" />
+<m type="qiyi" src="http://cache.video.qiyi.com/v/3ee01c5239d64703a33ebb7d72d42f39/55/2/" label="古惑仔系列之只手遮天" />
+<m type="youku" streamtype="flv"  src="XMzgyNTgzMTI" label="古惑仔系列之战无不胜" />
+<m type="youku" streamtype="flv"  src="XMTYyNDAzNzY" label="古惑仔系列之龙争虎斗" />
+<m type="youku" streamtype="flv"  src="XMTg4NTg3MzU2" label="古惑仔系列之胜者为王" />
+<m type="youku" streamtype="flv"  src="XMzgyNTgxNzI" label="古惑仔系列之山鸡的故事" />
+<m type="youku" streamtype="flv"  src="XMTg4NTkxNjI0" label="古惑仔系列之九龙冰室" />
+<m type="youku" streamtype="flv"  src="XMjYzMDI1Mzg4" label="古惑仔系列之洪兴十三妹" />
+<m type="youku" streamtype="flv"  src="XMTY1NTgzMjcy" label="古惑仔系列之誓不低头" />
+<m type="youku" streamtype="flv"  src="XOTE0NzYxMTY" label="古惑仔系列之地狱龙" />    
+
+
+
+
+
+
+
+
+</m>
+<m opened="0" label="日韩动作合集">
+<m type="youku" streamtype="flv"  src="XMTkxMjY5NDQw" label="001 - 热血男儿" />
+<m type="youku" streamtype="flv"  src="XMjQyMTg4MDk2" label="002 - 热血高校1" />
+<m type="youku" streamtype="flv"  src="XMjk3NDE5ODIw" label="003 - 热血高校2" />
+<m type="youku" streamtype="flv"  src="XMTkxNDk5MTk2" label="004 - 杀人回忆" />
+<m src="http://218.57.224.37/04f885f343e65f3ff43baaef8739215c/data11/dm9kZmx2/tefTsA--/z+O428CztcI-/MTAwNTA1LTM1MGstvNe1r7K_ttMtMQ--.flv?start={start_bytes}" stream="true" label="005 - 甲弹部队" />
+<m src="http://119.167.223.184/11/2/70/2111478005.0.flv?start={start_bytes}" stream="true" label="006 - 逃出" />
+<m type="youku" streamtype="flv"  src="XMTkzMjc0MTY0" label="007 - 武士" />
+<m src="http://f4.r.56.com/f4.c69.56.com/flvdownload/1/7/131577371058hd.flv?start={start_bytes}" stream="true" label="008 - 禽兽" />
+<m type="youku" streamtype="flv"  src="XMTkxMjgxN" label="009 - 同伙" />
+<m type="youku" streamtype="flv"  src="XMTkyNzUyOTk2" label="010 - 无血无泪" />
+<m type="youku" streamtype="flv"  src="XMTkxNDg4NDU2" label="011 - 下流人生" />
+<m type="youku" streamtype="flv"  src="XMTg0MjQ4NTY0" label="012 - 特工强档" />
+<m type=""src="http://g3.letv.cn/11/29/42/2111475755.0.flv?start={start_bytes}" lrc="" stream="true" label="013 - 有仇必报"/>
+<m type="youku" streamtype="flv" src="XNzQ5NzY2ODg" label="014 - 刑事"/>
+<m type="youku" streamtype="flv" src="XMTk4MDU2OTQ4" label="015 - 田禹治"/>
+<m type="youku" streamtype="flv" src="XMjUzODUyOTU2" label="016 - 无籍者"/>
+<m src="http://f5.r.56.com/f5.c70.56.com/flvdownload/10/13/sc_mp4_132621145596hd_clear.flv?start={start_bytes}" stream="true" label="017 - 甜蜜人生" />
+<m type="youku" streamtype="flv" src="XMzIxNjQ0Njg4" label="018 - 电影就是电影"/>
+<m src="http://g3.letv.cn/8/15/62/2081150420.0.flv?start={start_bytes}" stream="true" label="019 - 极速地下铁" />
+<m type="youku" streamtype="flv" src="XMTUwODg3MDky" label="020 - 少林少女 "/>
+<m type="youku" streamtype="flv" src="XMTkxNDkyNDA0" label="021 - 实尾岛"/>
+<m type="youku" streamtype="flv" src="XMTA5MjQxMDcy" label="022 - 风斗士"/>
+<m src="http://g3.letv.cn/9/16/92/2091155155.0.flv?start={start_bytes}" stream="true" label="023 - 韩城黑客" />
+<m src="http://f1.r.56.com/f1.c57.56.com/flvdownload/11/11/zhajm_129636642484hd.flv?start={start_bytes}" stream="true" label="024 - 不当交易" />
+<m type="youku" streamtype="flv" src="XMjA0MjYwNzU2" label="025 - 小夜刀"/>
+<m src="http://f3.r.56.com/f3.c55.56.com/flvdownload/19/13/128632696463hd.flv?start={start_bytes}" stream="true" label="026 - 绿芥刑警" />
+<m type="youku" streamtype="flv" src="XMTg2MDMxNDgw" label="027 - 少女杀手阿墨"/>
+<m type="youku" streamtype="flv" src="XMjk5OTk1MTgw" label="028 - 打抱不平"/>
+<m type="youku" streamtype="flv" src="XMTkxMjczNzQw" label="029 - 用心棒"/>
+<m type="youku" streamtype="flv" src="XMTU5MDIwMTMy" label="030 - 甲贺忍法帖"/>
+<m type="youku" streamtype="flv" src="XMTQ4OTU0MDUy" label="031 - 龙之战 07版"/>
+<m type="youku" streamtype="flv" src="XMzIwNDIzNTMy" label="032 - 血斗 "/>
+<m type="youku" streamtype="flv" src="XMTkxNDkyOTgw" label="033 - 浪漫刺客 "/>
+<m type="youku" streamtype="flv" src="XMTYzNzkwNzM2" label="034 - 盛夏猎户座"/>
+<m type="youku" streamtype="flv" src="XMTY2MjQ3NTc2" label="035 - 我的特工女友"/>
+<m type="youku" streamtype="flv" src="XOTM3NzE3MDQ=" label="036 - 杨周"/>
+<m type="youku" streamtype="flv" src="XMzk0MTA5MzY4" label="037 - 送死"/>
+<m src="http://f3.r.56.com/f3.c67.56.com/flvdownload/15/4/sc_mp4_133107758216hd_clear.flv?start={start_bytes}" stream="true" label="038 - 七天" />
+<m type="youku" streamtype="flv" src="XMTg3NDExNjY4" label="039 - 武装女猎人"/>
+<m src="http://f6.r.56.com/f6.c64.56.com/flvdownload/27/0/zhajm_130075826524hd.flv?m=s?start={start_bytes}" lrc="" stream="true" label="040 - 复仇者的暂避杀身之祸"/>
+<m type="youku" streamtype="flv"  src="XMjEwMDY5NDY0" label="041 - 深海大水怪 " />
+<m type="youku" streamtype="flv"  src="XMzUyNTA3OTg0" label="042 - 千机变  " />
+<m type="youku" streamtype="flv" src="XMTc5MDYxMjQ=" label="043 - 生死决"/>
+<m type="youku" streamtype="flv"  src="XMTkxOTQwMjUy" label="044 - 旋风腿" />
+<m src="http://f5.r.56.com/f5.c89.56.com/flvdownload/28/8/134425572611hd.flv?start={start_bytes}" lrc="" stream="true" label="045 - 曼谷功夫"/>
+<m type="tudou" src="http://v2.tudou.com/v2/cdn?id=147035040" brt="2" label="046 - 嚎叫" /> 
+<m src="http://f9.r.56.com/f9.c83.56.com/flvdownload/17/22/sc_134352793254hd.flv?start={start_bytes}" lrc="" stream="true" label="047 - 极道兵器"/>
+<m type="tudou" src="http://v2.tudou.com/v2/cdn?id=130442923" brt="2" label="048 - 太极旗飘扬" />
+<m type="youku" streamtype="flv"  src="XODUxODY3MTI" label="049 - 街霸!GTR" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+</m>
+<m opened="0" label="泰国动作合集">
+<m type="youku" streamtype="flv"  src="XMzA0MjA5NTcy" label="001 - 怒火凤凰" />
+<m src="http://f2.r.56.com/f2.c34.56.com/flvdownload/27/28/kfjabc@56.com_56flv_zhajm_123630675652x.flv?start={start_bytes}" stream="true" label="002 - 斯亚码勇士" />
+<m src="http://f6.r.56.com/f6.c70.56.com/flvdownload/24/21/sc_mp4_132327804297hd.flv?start={start_bytes}" stream="true" label="003 - 末路雷霆" />
+<m type="youku" streamtype="flv"  src="XMjI0NTkyMTM2" label="004 - CIA机密" />
+<m src="http://f1.r.56.com/f1.c45.56.com/flvdownload/2/0/zhajm_126512715190hd.flv?start={start_bytes}" stream="true" label="005 - 拳速反击" />
+<m type="youku" streamtype="flv"  src="XMjQ4NTIwNTgw" label="006 - 避难会" />
+<m type="youku" streamtype="flv"  src="XMzY2ODE5NTAw" label="007 - 曼谷重击" />
+<m type="youku" streamtype="flv"  src="XMjY0NTQxNDQ4" label="008 - 急速杀机" />
+<m type="youku" streamtype="flv"  src="XMzQxMjc5NzM2" label="009 - 中泰拳坛生死战" />
+<m type="youku" streamtype="flv"  src="XMzE0Njk4ODQ0" label="010-疯狂的芯片"  />
+<m type="tudou" src="http://v2.tudou.com/v2/cdn?id=142398052" brt="2" label="011-美丽拳王" />
+<m type="tudou" src="http://v2.tudou.com/v2/cdn?id=37425244" brt="2" label="012 - 灌篮泰拳" />
+</m>
+</list>

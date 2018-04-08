@@ -1,0 +1,28 @@
+<list opened="1">
+<m opened="0" label="甄子丹专辑">
+<m type="youku" streamtype="flv"  src="XMzEyNTQzODYw" label="01 画壁" />
+<m type="youku" streamtype="flv"  src="XMTM2MjE4Njky" label="02 杀破狼 " />
+<m type="2" src="http://video.feixiangtv.com/zonghe/201301/10/1357798687261.flv" label="03 叶问"/>
+<m src="http://flv1.vodfile.m1905.com/movie/KYHwSKRvdcut7Gt6.flv?start={start_bytes}" stream="true" label="04 叶问2"/>
+<m src="http://flv1.vodfile.m1905.com/movie/1106/11064F221F5BFA33D084.flv" label="05 画皮" />
+<m type="youku" streamtype="flv"  src="XMjA3NDExMTQw" label="06 导火线" />
+<m type="youku" streamtype="flv"  src="XMjA2ODc4MTQ4" label="07 龙虎门" />
+<m type="youku" streamtype="flv"  src="XMjQ3NDc0NTQw" label="08 最强喜事" />
+<m src="http://vurl.pps.iqiyi.com/ugc/e/f2/e38bbf90754cb56e678a9c6fe1566ab7bf32a47d/e38bbf90754cb56e678a9c6fe1566ab7bf32a47d.pfv?start={start_bytes}" stream="true" label="09关云长-高清" />
+<m type="youku" streamtype="flv"  src="XNDE5MTk3MDg" label="10 战狼传说" />
+<m type="youku" streamtype="flv"  src="XMjMxNzUxNTU2" label="11 黑色城市" />
+<m type="youku" streamtype="flv"  src="XMzMxOTI5OTY4" label="12 怒火威龙" />
+<m type="youku" streamtype="flv"  src="XMzMxMDczNTU2" label="13 武侠" />
+<m type="youku" streamtype="flv"  src="XMTk4MjU4MzE2" label="14 高压线" />
+<m type="youku" streamtype="flv"  src="XODQ5NDc4MDQ" label="15 铁马骝之街头杀手" />
+<m type="youku" streamtype="flv"  src="XMTI4NTY3ODA" label="16 马戏小子" />
+<m type="youku" streamtype="flv"  src="XMTE4OTIzODYw" label="17 少年黄飞鸿之铁马骝" />
+<m type="youku" streamtype="flv"  src="XMzMxOTIyMjky" label="18 新唐山大兄" />
+<m type="youku" streamtype="flv"  src="XNzE1MDYwNDg" label="19 黑玫瑰义结金兰" />
+<m src="http://flv1.vodfile.m1905.com/movie/1106/11061FCDADDD38DF2A99.flv?start={start_bytes}" stream="true" label="20 精武风云·陈真"/>  
+<m type="tudou" src="http://www.tudou.com/programs/view/n2Iq4BvJg7c/" label="21 江山美人" />
+<m list_src="{proxy}letv/v3/clar/1237351" label="22  锦衣卫" />
+<m type="2" src="http://dp.ugc.pps.tv/get_play_url.php?sid=31HYUK" label="23 街头杀手" />
+<m src="http://flv1.vodfile.m1905.com/movie/N-Xi8Y4uG4pCemzp.flv?start={start_bytes}" stream="true" label="24 义侠勇闯上海滩"/> 
+</m>
+</list>
