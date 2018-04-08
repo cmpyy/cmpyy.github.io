@@ -1,0 +1,10 @@
+﻿<IfModule mod_rewrite.c>
+RewriteEngine on
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^v/(.*)$ list.php?id=$1 [QSA,PT,L]
+RewriteCond %{HTTP_HOST} ^yy14029.top$ [NC]
+RewriteRule ^(.*)$ http://cmpyy.com/$1 [R=301,L]
+RewriteCond %{HTTP_HOST} ^www.yy14029.top$ [NC]
+RewriteRule ^(.*)$ http://www.cmpyy.com/$1 [R=301,L]
+</IfModule>
