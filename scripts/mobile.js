@@ -10,26 +10,25 @@ function mobile_device_detect(url)
  } 
  }
  
- //ÒòÎªÏàµ±²¿·ÖµÄÊÖ»úÏµÍ³²»ÖªµÀĞÅÏ¢,ÕâÀïÊÇ×öÁÙÊ±ĞÔÌØÊâ±æÈÏ
+ //å› ä¸ºç›¸å½“éƒ¨åˆ†çš„æ‰‹æœºç³»ç»Ÿä¸çŸ¥é“ä¿¡æ¯,è¿™é‡Œæ˜¯åšä¸´æ—¶æ€§ç‰¹æ®Šè¾¨è®¤
  if(navigator.platform.indexOf('iPad') != -1)
     {
  window.location=url;
  }
  
- //×öÕâÒ»²¿·ÖÊÇÒòÎªAndroidÊÖ»úµÄÄÚºËÒ²ÊÇLinux
- //µ«ÊÇnavigator.platformÏÔÊ¾ĞÅÏ¢²»¾¡ÏàÍ¬Çé¿ö·±¶à,Òò´Ë´Óä¯ÀÀÆ÷ÏÂÊÖ£¬¼´ÓÃnavigator.appVersionĞÅÏ¢×öÅĞ¶Ï
+ //ä½†æ˜¯navigator.platformæ˜¾ç¤ºä¿¡æ¯ä¸å°½ç›¸åŒæƒ…å†µç¹å¤š,å› æ­¤ä»æµè§ˆå™¨ä¸‹æ‰‹ï¼Œå³ç”¨navigator.appVersionä¿¡æ¯åšåˆ¤æ–­
  var check = navigator.appVersion;
  
  if( check.match(/linux/i) )
      {
-  //X11ÊÇUCä¯ÀÀÆ÷µÄÆ½Ì¨ £¬Èç¹ûÓĞÆäËûÌØÊâä¯ÀÀÆ÷Ò²¿ÉÒÔ¸½¼ÓÉÏÌõ¼ş
+  //X11æ˜¯UCæµè§ˆå™¨çš„å¹³å° ï¼Œå¦‚æœæœ‰å…¶ä»–ç‰¹æ®Šæµè§ˆå™¨ä¹Ÿå¯ä»¥é™„åŠ ä¸Šæ¡ä»¶
   if(check.match(/mobile/i) || check.match(/X11/i))
          {
   window.location=url;
   } 
  }
  
- //Ààin_arrayº¯Êı
+ //ç±»in_arrayå‡½æ•°
  Array.prototype.in_array = function(e)
  {
  for(i=0;i<this.length;i++)
