@@ -16,6 +16,7 @@ function mobile_device_detect(url)
  window.location=url;
  }
  
+ //做这一部分是因为Android手机的内核也是Linux
  //但是navigator.platform显示信息不尽相同情况繁多,因此从浏览器下手，即用navigator.appVersion信息做判断
  var check = navigator.appVersion;
  
